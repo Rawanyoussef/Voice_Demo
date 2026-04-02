@@ -1,0 +1,3020 @@
+{
+  "meta": {
+    "project": "Citystars Heliopolis Mall - Demo Dummy Data",
+    "language": "ar-EG",
+    "note": "Expanded demo data based on the uploaded wayfinding demo plus a larger public-directory-based subset compiled from Citystars public directory pages. Internal location_ids for added public entries are synthetic demo ids.",
+    "data_version": "expanded_public_subset_2026-03-31"
+  },
+  "starting_points": [
+    {
+      "id": "gate_1",
+      "name_ar": "بوابة 1",
+      "location_id": "K2_store_gate1",
+      "floor": "Level 2"
+    },
+    {
+      "id": "gate_2",
+      "name_ar": "بوابة 2",
+      "location_id": "K2_store_gate2",
+      "floor": "Level 2"
+    },
+    {
+      "id": "gate_3",
+      "name_ar": "بوابة 3",
+      "location_id": "K2_store_gate3",
+      "floor": "Level 2"
+    },
+    {
+      "id": "gate_4",
+      "name_ar": "بوابة 4",
+      "location_id": "K1_store_gate4",
+      "floor": "Level 1"
+    },
+    {
+      "id": "gate_5",
+      "name_ar": "بوابة 5",
+      "location_id": "K1_store_gate5",
+      "floor": "Level 1"
+    },
+    {
+      "id": "gate_6",
+      "name_ar": "بوابة 6",
+      "location_id": "K1_store_gate6",
+      "floor": "Level 1"
+    },
+    {
+      "id": "gate_7",
+      "name_ar": "بوابة 7",
+      "location_id": "K0.5_store_gate7",
+      "floor": "Level 0.5"
+    },
+    {
+      "id": "info_desk_l2",
+      "name_ar": "الاستعلامات",
+      "location_id": "K2_info_01",
+      "floor": "Level 2"
+    },
+    {
+      "id": "food_court_side",
+      "name_ar": "جنب الفود كورت",
+      "location_id": "K2_cc_01",
+      "floor": "Level 2"
+    }
+  ],
+  "places": [
+    {
+      "id": "mosque_l2",
+      "name_ar": "المسجد",
+      "category": "mosque",
+      "location_id": "K2_mosque_01",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "جنب الحمام",
+        "قريب من منطقة الـ ATM",
+        "قريب من ممر المحلات الكبيرة"
+      ]
+    },
+    {
+      "id": "male_mosque_l2",
+      "name_ar": "مصلى الرجال",
+      "category": "mosque",
+      "location_id": "K2_malemosque_01",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "جنب الحمام",
+        "قريب من الممر الرئيسي"
+      ]
+    },
+    {
+      "id": "wc_l2",
+      "name_ar": "الحمام",
+      "category": "wc",
+      "location_id": "K2_wc_01",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "جنب المصلى",
+        "قريب من مصعد الدور التاني"
+      ]
+    },
+    {
+      "id": "babycare_l2",
+      "name_ar": "غرفة رعاية الأطفال",
+      "category": "babycare",
+      "location_id": "K2_babycare_01",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "جنب المصلى",
+        "قريب من الحمام"
+      ]
+    },
+    {
+      "id": "atm_zone_l2",
+      "name_ar": "منطقة الـ ATM",
+      "category": "atm",
+      "location_id": "K2_store_atm01",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "قريبة من الحمام",
+        "في الممر الجانبي"
+      ]
+    },
+    {
+      "id": "elevator_l2_east",
+      "name_ar": "مصعد الدور التاني الشرقي",
+      "category": "elevator",
+      "location_id": "K2_elevator_05",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "قريب من المحلات الكبيرة",
+        "جنب الممر الطويل"
+      ]
+    },
+    {
+      "id": "elevator_l1_center",
+      "name_ar": "مصعد الدور الأول الرئيسي",
+      "category": "elevator",
+      "location_id": "K1_elevator_05",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "قريب من الممشى الرئيسي",
+        "جنب شوية أكشاك"
+      ]
+    },
+    {
+      "id": "escalator_l1_center",
+      "name_ar": "السلم الكهربائي الرئيسي",
+      "category": "escalator",
+      "location_id": "K1_store_kiosk308",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في النص تقريبًا",
+        "واضح من الممر الرئيسي"
+      ]
+    },
+    {
+      "id": "restroom_l1",
+      "name_ar": "حمام الدور الأول",
+      "category": "wc",
+      "location_id": "K1_wc_01",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "قريب من المصلى",
+        "جنب ممشى المحلات"
+      ]
+    },
+    {
+      "id": "mosque_l1",
+      "name_ar": "مصلى الدور الأول",
+      "category": "mosque",
+      "location_id": "K1_mosque_01",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "جنب الحمام",
+        "قريب من مجموعة محلات"
+      ]
+    },
+    {
+      "id": "atm_zone_l1",
+      "name_ar": "ATM الدور الأول",
+      "category": "atm",
+      "location_id": "K1_store_atm09",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "جنب الممر",
+        "قريب من المصعد"
+      ]
+    },
+    {
+      "id": "gate_1_l2",
+      "name_ar": "بوابة 1",
+      "category": "gate",
+      "location_id": "K2_store_gate1",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "قريبة من محلات الدور التاني"
+      ]
+    },
+    {
+      "id": "gate_2_l2",
+      "name_ar": "بوابة 2",
+      "category": "gate",
+      "location_id": "K2_store_gate2",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في آخر الممر"
+      ]
+    },
+    {
+      "id": "gate_3_l2",
+      "name_ar": "بوابة 3",
+      "category": "gate",
+      "location_id": "K2_store_gate3",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "جنب صف محلات"
+      ]
+    },
+    {
+      "id": "gate_4_l1",
+      "name_ar": "بوابة 4",
+      "category": "gate",
+      "location_id": "K1_store_gate4",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "على طرف الدور الأول"
+      ]
+    },
+    {
+      "id": "gate_5_l1",
+      "name_ar": "بوابة 5",
+      "category": "gate",
+      "location_id": "K1_store_gate5",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "جنب ATM ومصعد"
+      ]
+    },
+    {
+      "id": "gate_6_l1",
+      "name_ar": "بوابة 6",
+      "category": "gate",
+      "location_id": "K1_store_gate6",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "قريبة من بداية الممر"
+      ]
+    },
+    {
+      "id": "gate_7_l05",
+      "name_ar": "بوابة 7",
+      "category": "gate",
+      "location_id": "K0.5_store_gate7",
+      "floor": "Level 0.5",
+      "landmarks_ar": [
+        "عند المدخل السفلي"
+      ]
+    },
+    {
+      "id": "fashion_store_1",
+      "name_ar": "زارا",
+      "category": "store",
+      "location_id": "K2_store_45",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "جنب السلم الكهربائي",
+        "قدام ممر واسع"
+      ],
+      "is_dummy_name": true,
+      "desc": "من أشهر محلات الأزياء والكاجوال والقطع الموسمية.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "fashion_store_2",
+      "name_ar": "H&M",
+      "category": "store",
+      "location_id": "K2_store_46",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "قريب من بوابة 1",
+        "جنب زارا"
+      ],
+      "is_dummy_name": true,
+      "desc": "ملابس كاجوال وأساسيّات وملابس أطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "coffee_shop",
+      "name_ar": "كوستا كوفي",
+      "category": "store",
+      "location_id": "K2_store_47",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "قدام الاستعلامات",
+        "جنب منطقة جلوس"
+      ],
+      "is_dummy_name": true,
+      "desc": "كافيه معروف للقهوة والمشروبات والحلويات الخفيفة.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "electronics_store",
+      "name_ar": "ڤيرجن ميجا ستور",
+      "category": "store",
+      "location_id": "K2_store_43",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "قريب من المصعد",
+        "في نفس ممر الـ ATM"
+      ],
+      "is_dummy_name": true
+    },
+    {
+      "id": "pharmacy_store",
+      "name_ar": "صيدلية العائلة",
+      "category": "store",
+      "location_id": "K1_store_100",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "جنب المصعد",
+        "قريبة من الحمام"
+      ],
+      "is_dummy_name": true
+    },
+    {
+      "id": "kids_store",
+      "name_ar": "محل أطفال",
+      "category": "store",
+      "location_id": "K1_store_74",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "قريب من مصعد الدور الأول",
+        "جنب ممشى رئيسي"
+      ],
+      "is_dummy_name": true
+    },
+    {
+      "id": "sports_store",
+      "name_ar": "أديداس",
+      "category": "store",
+      "location_id": "K1_store_79",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "على نفس صف المحلات",
+        "بعد السلم الكهربائي"
+      ],
+      "is_dummy_name": true,
+      "desc": "ملابس وأحذية رياضية.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "beauty_store",
+      "name_ar": "سيفورا",
+      "category": "store",
+      "location_id": "K3_store_01",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "جنب الممر الرئيسي",
+        "قريبة من المصعد"
+      ],
+      "is_dummy_name": true,
+      "desc": "مكياج وعطور وسكين كير من أشهر الماركات."
+    },
+    {
+      "id": "cinema_area",
+      "name_ar": "منطقة السينما",
+      "category": "store",
+      "location_id": "K4_store_117",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "بعد المصعد",
+        "في آخر الممر"
+      ],
+      "is_dummy_name": true,
+      "desc": "منطقة ترفيه وسينما."
+    },
+    {
+      "id": "foodcourt_anchor",
+      "name_ar": "الفود كورت",
+      "category": "food",
+      "location_id": "K2_cc_01",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "جنب الاستعلامات",
+        "قريب من بوابة 1"
+      ],
+      "desc": "منطقة تجمع مطاعم وكافيهات وخيارات أكل متعددة.",
+      "is_dummy_name": true
+    },
+    {
+      "id": "saudi_market",
+      "name_ar": "سعودي ماركت",
+      "category": "supermarket",
+      "location_id": "K1_store_200",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "قريب من بوابة 5",
+        "جنب المصعد الرئيسي"
+      ],
+      "desc": "سوبرماركت كبير: خضار وفاكهة، لحوم ودواجن، ألبان وأجبان، معلبات، منظفات، منتجات استيراد ومحلية، ومستلزمات مطبخ"
+    },
+    {
+      "id": "sea_ranch",
+      "name_ar": "سي رانش",
+      "category": "restaurant",
+      "location_id": "K2_store_300",
+      "floor": "Level 2 - الفود كورت",
+      "landmarks_ar": [
+        "في الفود كورت",
+        "جنب بي سي"
+      ],
+      "desc": "مطعم مأكولات بحرية وشواء، أشهر حاجة عندهم بيتزا الجمبري وبيتزا السمون، تحفة مش زيها في المول",
+      "food_type": [
+        "بيتزا",
+        "مأكولات بحرية",
+        "جمبري",
+        "سمك",
+        "ستيك"
+      ],
+      "is_official_public_directory": false
+    },
+    {
+      "id": "bc_restaurant",
+      "name_ar": "بي سي",
+      "category": "restaurant",
+      "location_id": "K2_store_301",
+      "floor": "Level 2 - الفود كورت",
+      "landmarks_ar": [
+        "في الفود كورت",
+        "جنب سي رانش"
+      ],
+      "desc": "مطعم إيطالي، بيتزا بعجينة رقيقة كلاسيك وباستا كريمي تحفة ولازانيا",
+      "food_type": [
+        "بيتزا",
+        "باستا",
+        "إيطالي",
+        "لازانيا"
+      ],
+      "is_official_public_directory": false
+    },
+    {
+      "id": "starbucks_l1_l2",
+      "name_ar": "ستاربكس",
+      "category": "restaurant",
+      "location_id": "official_L1_L2_starbucks",
+      "floor": "Level 1, Level 2",
+      "landmarks_ar": [
+        "من الكافيهات المعروفة في المول",
+        "مناسب للقاعدة السريعة"
+      ],
+      "desc": "قهوة ومشروبات باردة وساخنة وسناكس خفيفة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "قهوة",
+        "كافيه",
+        "حاجة حلوة"
+      ]
+    },
+    {
+      "id": "caribou_l1",
+      "name_ar": "كاريبو كوفي",
+      "category": "restaurant",
+      "location_id": "official_L1_caribou",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "على نفس الدور مع محلات كثيرة",
+        "كويس للقهوة السريعة"
+      ],
+      "desc": "كافيه للقهوة المتخصصة والمشروبات السريعة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "قهوة",
+        "كافيه"
+      ]
+    },
+    {
+      "id": "dunkin_l1",
+      "name_ar": "دانكن",
+      "category": "restaurant",
+      "location_id": "official_L1_dunkin",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "قريب من مسار المحلات",
+        "مناسب للحاجة السريعة"
+      ],
+      "desc": "قهوة ودوناتس وسناكس خفيفة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "قهوة",
+        "حاجة حلوة"
+      ]
+    },
+    {
+      "id": "paul_l3",
+      "name_ar": "PAUL",
+      "category": "restaurant",
+      "location_id": "official_L3_paul",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "على الدور الثالث",
+        "مناسب للفطار والقهوة"
+      ],
+      "desc": "بيكري وكافيه وفطار خفيف وحلويات.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "فطار",
+        "قهوة",
+        "حاجة حلوة"
+      ]
+    },
+    {
+      "id": "espresso_lab_l3",
+      "name_ar": "Espresso Lab",
+      "category": "restaurant",
+      "location_id": "official_L3_espresso_lab",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "اختيار مناسب للقهوة"
+      ],
+      "desc": "كافيه للقهوة المتخصصة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "قهوة",
+        "كافيه"
+      ]
+    },
+    {
+      "id": "cilantro_l5",
+      "name_ar": "سيلانترو",
+      "category": "restaurant",
+      "location_id": "official_L5_cilantro",
+      "floor": "Level 5",
+      "landmarks_ar": [
+        "في الدور الخامس",
+        "مناسب للقعدة السريعة"
+      ],
+      "desc": "كافيه وقهوة ومشروبات وحلويات خفيفة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "قهوة",
+        "كافيه",
+        "حاجة حلوة"
+      ]
+    },
+    {
+      "id": "brioche_l2",
+      "name_ar": "Brioche Dorée",
+      "category": "restaurant",
+      "location_id": "official_L2_brioche_doree",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "على الدور الثاني",
+        "كويس للفطار السريع"
+      ],
+      "desc": "مخبوزات وكافيه وفطار خفيف.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "فطار",
+        "قهوة",
+        "حاجة حلوة"
+      ]
+    },
+    {
+      "id": "krispy_kreme_l1",
+      "name_ar": "Krispy Kreme",
+      "category": "restaurant",
+      "location_id": "official_L1_krispy_kreme",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "لو عايزة حاجة حلوة"
+      ],
+      "desc": "دوناتس ومشروبات ساخنة وباردة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "حاجة حلوة",
+        "قهوة"
+      ]
+    },
+    {
+      "id": "nola_l1",
+      "name_ar": "NOLA",
+      "category": "restaurant",
+      "location_id": "official_L1_nola",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "اختيار مناسب للتحلية"
+      ],
+      "desc": "حلويات وكيك وميني حلو.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "حاجة حلوة"
+      ]
+    },
+    {
+      "id": "mcd_l6_l8",
+      "name_ar": "ماكدونالدز",
+      "category": "restaurant",
+      "location_id": "official_L6_L8_mcdonalds",
+      "floor": "Level 6, Level 8",
+      "landmarks_ar": [
+        "في منطقة الأكل",
+        "مناسب للأكل السريع"
+      ],
+      "desc": "برجر ووجبات سريعة ومشروبات.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "برجر",
+        "أكل سريع"
+      ]
+    },
+    {
+      "id": "kfc_l6_l8",
+      "name_ar": "كنتاكي",
+      "category": "restaurant",
+      "location_id": "official_L6_L8_kfc",
+      "floor": "Level 6, Level 8",
+      "landmarks_ar": [
+        "في منطقة المطاعم",
+        "مناسب للوجبات السريعة"
+      ],
+      "desc": "فرايد تشيكن ووجبات سريعة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "أكل سريع"
+      ]
+    },
+    {
+      "id": "buffalo_burger_l8",
+      "name_ar": "Buffalo Burger",
+      "category": "restaurant",
+      "location_id": "official_L8_buffalo_burger",
+      "floor": "Level 8",
+      "landmarks_ar": [
+        "في الدور الثامن",
+        "من اختيارات البرجر"
+      ],
+      "desc": "برجر ووجبات سريعة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "برجر",
+        "أكل سريع"
+      ]
+    },
+    {
+      "id": "papajohns_l8",
+      "name_ar": "Papa John's",
+      "category": "restaurant",
+      "location_id": "official_L8_papajohns",
+      "floor": "Level 8",
+      "landmarks_ar": [
+        "في منطقة الأكل",
+        "لو عايزة بيتزا"
+      ],
+      "desc": "بيتزا وسايدز.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "بيتزا"
+      ]
+    },
+    {
+      "id": "abou_tarek_l6",
+      "name_ar": "أبو طارق",
+      "category": "restaurant",
+      "location_id": "official_L6_abou_tarek",
+      "floor": "Level 6",
+      "landmarks_ar": [
+        "في الدور السادس",
+        "وجبة مصرية سريعة"
+      ],
+      "desc": "كشري وأكل مصري سريع.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "أكل سريع"
+      ]
+    },
+    {
+      "id": "zooba_l4",
+      "name_ar": "زوبا",
+      "category": "restaurant",
+      "location_id": "official_L4_zooba",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "اختيار مناسب للأكل المصري"
+      ],
+      "desc": "أكل مصري حديث وسريع.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "أكل سريع",
+        "فطار"
+      ]
+    },
+    {
+      "id": "chilis_l5",
+      "name_ar": "Chili's",
+      "category": "restaurant",
+      "location_id": "official_L5_chilis",
+      "floor": "Level 5",
+      "landmarks_ar": [
+        "في الدور الخامس",
+        "مطعم جلسة أكتر من فاست فود"
+      ],
+      "desc": "مطعم أمريكاني ووجبات رئيسية وبرجر.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "برجر",
+        "مطعم"
+      ]
+    },
+    {
+      "id": "casper_l3",
+      "name_ar": "Casper & Gambini's",
+      "category": "restaurant",
+      "location_id": "official_L3_casper_gambinis",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "مناسب للأكل والقهوة"
+      ],
+      "desc": "مطعم وكافيه، فيه أكل وقهوة وحلويات.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم",
+        "قهوة",
+        "باستا"
+      ]
+    },
+    {
+      "id": "bosporus_l4",
+      "name_ar": "Bosporus",
+      "category": "restaurant",
+      "location_id": "official_L4_bosporus",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "مطعم جلسة"
+      ],
+      "desc": "مطعم يقدم أطباق تركية ومشاوي.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم",
+        "مشويات"
+      ]
+    },
+    {
+      "id": "abou_elsid_l4",
+      "name_ar": "أبو السيد",
+      "category": "restaurant",
+      "location_id": "official_L4_abou_elsid",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "مطعم معروف"
+      ],
+      "desc": "مطعم أكل شرقي ومصري.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم",
+        "أكل مصري"
+      ]
+    },
+    {
+      "id": "maharaja_l5",
+      "name_ar": "Maharaja",
+      "category": "restaurant",
+      "location_id": "official_L5_maharaja",
+      "floor": "Level 5",
+      "landmarks_ar": [
+        "في الدور الخامس",
+        "لو عايزة أكل هندي"
+      ],
+      "desc": "مطعم أكل هندي.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم"
+      ]
+    },
+    {
+      "id": "sizzler_l4",
+      "name_ar": "Sizzler",
+      "category": "restaurant",
+      "location_id": "official_L4_sizzler",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "مطعم جلسة"
+      ],
+      "desc": "مطعم مشويات وستيك.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم",
+        "ستيك"
+      ]
+    },
+    {
+      "id": "sushi_bay_l0",
+      "name_ar": "Sushi Bay",
+      "category": "restaurant",
+      "location_id": "official_L0_sushi_bay",
+      "floor": "Level 0",
+      "landmarks_ar": [
+        "في الدور الأرضي",
+        "لو عايزة سوشي"
+      ],
+      "desc": "سوشي وأكلات آسيوية.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "سوشي",
+        "مطعم"
+      ]
+    },
+    {
+      "id": "mori_sushi_l0",
+      "name_ar": "Mori Sushi",
+      "category": "restaurant",
+      "location_id": "official_L0_mori_sushi",
+      "floor": "Level 0",
+      "landmarks_ar": [
+        "في الدور الأرضي",
+        "اختيار مناسب للسوشي"
+      ],
+      "desc": "سوشي ومأكولات آسيوية.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "سوشي",
+        "مطعم"
+      ]
+    },
+    {
+      "id": "spectra_l6",
+      "name_ar": "Spectra",
+      "category": "restaurant",
+      "location_id": "official_L6_spectra",
+      "floor": "Level 6",
+      "landmarks_ar": [
+        "في الدور السادس",
+        "مطعم جلسة"
+      ],
+      "desc": "مطعم وكافيه وجلسة كاملة.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم",
+        "قهوة"
+      ]
+    },
+    {
+      "id": "planet_africa_l5_l6",
+      "name_ar": "Planet Africa",
+      "category": "restaurant",
+      "location_id": "official_L5_L6_planet_africa",
+      "floor": "Level 5, Level 6",
+      "landmarks_ar": [
+        "في الدور الخامس والسادس",
+        "مطعم كبير"
+      ],
+      "desc": "مطعم جلسة ومنيو متنوع.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم"
+      ]
+    },
+    {
+      "id": "nisantasi_l5",
+      "name_ar": "Nişantaşı",
+      "category": "restaurant",
+      "location_id": "official_L5_nisantasi",
+      "floor": "Level 5",
+      "landmarks_ar": [
+        "في الدور الخامس",
+        "جلسة ومشروبات وأكل"
+      ],
+      "desc": "مطعم وكافيه بطابع تركي.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "مطعم",
+        "قهوة"
+      ]
+    },
+    {
+      "id": "shogun_l1_l2",
+      "name_ar": "Shogun Japanese Restaurant",
+      "category": "restaurant",
+      "location_id": "official_L1_L2_shogun",
+      "floor": "Level 1, Level 2",
+      "landmarks_ar": [
+        "في الدور الأول والثاني",
+        "مطعم مميز للأكل الياباني"
+      ],
+      "desc": "مطعم ياباني وسوشي.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "سوشي",
+        "مطعم"
+      ]
+    },
+    {
+      "id": "la_mie_l0",
+      "name_ar": "La Mie",
+      "category": "restaurant",
+      "location_id": "official_L0_la_mie",
+      "floor": "Level 0",
+      "landmarks_ar": [
+        "في الدور الأرضي",
+        "كويس للفطار السريع"
+      ],
+      "desc": "بيكري وكافيه ومخبوزات.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "فطار",
+        "حاجة حلوة",
+        "قهوة"
+      ]
+    },
+    {
+      "id": "fuddruckers_l1",
+      "name_ar": "Fuddruckers",
+      "category": "restaurant",
+      "location_id": "official_L1_fuddruckers",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "اختيار برجر معروف"
+      ],
+      "desc": "برجر ووجبات أمريكاني.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "برجر",
+        "أكل سريع"
+      ]
+    },
+    {
+      "id": "maestro_l1_l2",
+      "name_ar": "Maestro Italian Restaurant",
+      "category": "restaurant",
+      "location_id": "official_L1_L2_maestro",
+      "floor": "Level 1, Level 2",
+      "landmarks_ar": [
+        "في الدور الأول والثاني",
+        "لو عايزة أكل إيطالي"
+      ],
+      "desc": "مطعم إيطالي للبيتزا والباستا.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "بيتزا",
+        "باستا",
+        "مطعم"
+      ]
+    },
+    {
+      "id": "villa_di_napoli_l0",
+      "name_ar": "VILLA DI NAPOLI",
+      "category": "restaurant",
+      "location_id": "official_L0_villa_di_napoli",
+      "floor": "Level 0",
+      "landmarks_ar": [
+        "في الدور الأرضي",
+        "مطعم إيطالي"
+      ],
+      "desc": "مطعم إيطالي وبيتزا وباستا.",
+      "is_official_public_directory": true,
+      "food_type": [
+        "بيتزا",
+        "باستا"
+      ]
+    },
+    {
+      "id": "lc_waikiki_l3",
+      "name_ar": "LC Waikiki",
+      "category": "store",
+      "location_id": "official_L3_lc_waikiki",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "من محلات الملابس المعروفة"
+      ],
+      "desc": "ملابس كاجوال ورجالي وحريمي وأطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "mango_l2",
+      "name_ar": "Mango",
+      "category": "store",
+      "location_id": "official_L2_mango",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "ضمن منطقة الأزياء"
+      ],
+      "desc": "ملابس حريمي وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "massimo_dutti_l3",
+      "name_ar": "Massimo Dutti",
+      "category": "store",
+      "location_id": "official_L3_massimo_dutti",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "ضمن محلات الفاشون"
+      ],
+      "desc": "أزياء كلاسيك وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "lefties_l2",
+      "name_ar": "Lefties",
+      "category": "store",
+      "location_id": "official_L2_lefties",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "قريب من منطقة محلات الأزياء"
+      ],
+      "desc": "ملابس كاجوال وأساسيّات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "pull_bear_l2",
+      "name_ar": "Pull&Bear",
+      "category": "store",
+      "location_id": "official_L2_pull_bear",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "من محلات الكاجوال"
+      ],
+      "desc": "ملابس كاجوال وشبابي.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "bershka_l2",
+      "name_ar": "Bershka",
+      "category": "store",
+      "location_id": "official_L2_bershka",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "ضمن محلات الأزياء"
+      ],
+      "desc": "ملابس شبابي وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "american_eagle_l2",
+      "name_ar": "American Eagle",
+      "category": "store",
+      "location_id": "official_L2_american_eagle",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "من البراندات المعروفة"
+      ],
+      "desc": "ملابس كاجوال وجينز.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "guess_l3",
+      "name_ar": "Guess",
+      "category": "store",
+      "location_id": "official_L3_guess",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "من محلات البراندات"
+      ],
+      "desc": "ملابس وإكسسوارات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "tommy_l3",
+      "name_ar": "Tommy Hilfiger",
+      "category": "store",
+      "location_id": "official_L3_tommy_hilfiger",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "من محلات البراندات"
+      ],
+      "desc": "ملابس وإكسسوارات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "lacoste_l2",
+      "name_ar": "Lacoste",
+      "category": "store",
+      "location_id": "official_L2_lacoste",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "من البراندات المعروفة"
+      ],
+      "desc": "ملابس كاجوال وبولو.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "levis_l3",
+      "name_ar": "Levi's",
+      "category": "store",
+      "location_id": "official_L3_levis",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "محل معروف للچينز"
+      ],
+      "desc": "جينز وملابس كاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "max_l1",
+      "name_ar": "Max",
+      "category": "store",
+      "location_id": "official_L1_max",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "اختيار مناسب للعيلة"
+      ],
+      "desc": "ملابس للرجال والحريمي والأطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "marks_spencer_l1",
+      "name_ar": "Marks & Spencer",
+      "category": "store",
+      "location_id": "official_L1_marks_spencer",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "محل شامل للملابس"
+      ],
+      "desc": "ملابس وكاجوال وأساسيّات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "reserved_l2",
+      "name_ar": "Reserved",
+      "category": "store",
+      "location_id": "official_L2_reserved",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "ضمن محلات الفاشون"
+      ],
+      "desc": "ملابس كاجوال وحديثة.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "koton_l2_l3",
+      "name_ar": "Koton",
+      "category": "store",
+      "location_id": "official_L2_L3_koton",
+      "floor": "Level 2, Level 3",
+      "landmarks_ar": [
+        "في الدور الثاني والثالث",
+        "من محلات الملابس المعروفة"
+      ],
+      "desc": "ملابس كاجوال وحريمي وأطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "defacto_l4",
+      "name_ar": "DeFacto",
+      "category": "store",
+      "location_id": "official_L4_defacto",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "اختيار مناسب للملابس اليومية"
+      ],
+      "desc": "ملابس كاجوال ومتنوعة.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "mobaco_l2",
+      "name_ar": "MOBACO COTTONS",
+      "category": "store",
+      "location_id": "official_L2_mobaco_cottons",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "محل ملابس معروف"
+      ],
+      "desc": "ملابس وكاجوال وقمصان.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "concrete_l3",
+      "name_ar": "CONCRETE",
+      "category": "store",
+      "location_id": "official_L3_concrete",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "ضمن محلات الرجال"
+      ],
+      "desc": "ملابس رجالي وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "cortefiel_l1",
+      "name_ar": "Cortefiel",
+      "category": "store",
+      "location_id": "official_L1_cortefiel",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "من محلات الأزياء"
+      ],
+      "desc": "ملابس كاجوال وكلاسيك.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "colins_l2",
+      "name_ar": "Colin's",
+      "category": "store",
+      "location_id": "official_L2_colins",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "محل كاجوال"
+      ],
+      "desc": "ملابس جينز وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "decathlon_l1",
+      "name_ar": "Decathlon",
+      "category": "store",
+      "location_id": "official_L1_decathlon",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "محل رياضي كبير"
+      ],
+      "desc": "معدات وملابس رياضية متنوعة.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "puma_l2",
+      "name_ar": "Puma",
+      "category": "store",
+      "location_id": "official_L2_puma",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "من البراندات الرياضية"
+      ],
+      "desc": "ملابس وأحذية رياضية.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "new_balance_l2",
+      "name_ar": "New Balance",
+      "category": "store",
+      "location_id": "official_L2_new_balance",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "لو عايزة كوتشي رياضي"
+      ],
+      "desc": "أحذية وملابس رياضية.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "reebok_l4",
+      "name_ar": "Reebok",
+      "category": "store",
+      "location_id": "official_L4_reebok",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "من محلات الرياضة"
+      ],
+      "desc": "أحذية وملابس رياضية.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "asics_l4",
+      "name_ar": "ASICS",
+      "category": "store",
+      "location_id": "official_L4_asics",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "مناسب للجري والرياضة"
+      ],
+      "desc": "أحذية ومستلزمات رياضية.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "skechers_l1",
+      "name_ar": "Skechers",
+      "category": "store",
+      "location_id": "official_L1_skechers",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "لو عايزة كوتشي مريح"
+      ],
+      "desc": "أحذية مريحة وكاجوال ورياضية.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "crocs_l2",
+      "name_ar": "Crocs",
+      "category": "store",
+      "location_id": "official_L_2_L2_crocs",
+      "floor": "Level -2, Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني وكمان -2",
+        "براند معروف"
+      ],
+      "desc": "أحذية وكاجوال خفيف.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "aldo_l2",
+      "name_ar": "ALDO",
+      "category": "store",
+      "location_id": "official_L2_aldo",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "لو عايزة جزمة أو شنطة"
+      ],
+      "desc": "أحذية وشنط.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "charles_keith_l3",
+      "name_ar": "CHARLES & KEITH",
+      "category": "store",
+      "location_id": "official_L3_charles_keith",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "من محلات الشوز والشنط"
+      ],
+      "desc": "أحذية وشنط وإكسسوارات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "clarks_l1",
+      "name_ar": "Clarks",
+      "category": "store",
+      "location_id": "official_L1_clarks",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "محل أحذية معروف"
+      ],
+      "desc": "أحذية جلد وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "converse_l2",
+      "name_ar": "Converse",
+      "category": "store",
+      "location_id": "official_L2_converse",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "لو عايزة كوتشي كاجوال"
+      ],
+      "desc": "أحذية وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "geox_l3",
+      "name_ar": "GEOX",
+      "category": "store",
+      "location_id": "official_L3_geox",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "ضمن محلات الأحذية"
+      ],
+      "desc": "أحذية وكاجوال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "samsonite_l1",
+      "name_ar": "Samsonite",
+      "category": "store",
+      "location_id": "official_L1_samsonite",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "لو عايزة شنط سفر"
+      ],
+      "desc": "شنط سفر وحقائب.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "carpisa_l2",
+      "name_ar": "Carpisa",
+      "category": "store",
+      "location_id": "official_L2_carpisa",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "لو عايزة شنطة"
+      ],
+      "desc": "شنط وإكسسوارات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "parfois_l1",
+      "name_ar": "Parfois",
+      "category": "store",
+      "location_id": "official_L1_parfois",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "من محلات الإكسسوارات"
+      ],
+      "desc": "إكسسوارات وشنط.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "miniso_l4",
+      "name_ar": "Miniso",
+      "category": "store",
+      "location_id": "official_L4_miniso",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "محل متنوع"
+      ],
+      "desc": "إكسسوارات ومنتجات منزلية وهدايا.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "michael_kors_l3",
+      "name_ar": "MICHAEL KORS",
+      "category": "store",
+      "location_id": "official_L3_michael_kors",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "من محلات البراندات"
+      ],
+      "desc": "شنط وإكسسوارات وبراند فاخر.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "pandora_l2",
+      "name_ar": "Pandora",
+      "category": "store",
+      "location_id": "official_L2_pandora",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "لو عايزة إكسسوارات أو هدية"
+      ],
+      "desc": "مجوهرات وإكسسوارات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "swarovski_l3",
+      "name_ar": "SWAROVSKI",
+      "category": "store",
+      "location_id": "official_L3_swarovski",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "محل هدايا وإكسسوارات"
+      ],
+      "desc": "مجوهرات وإكسسوارات كريستال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "lazurde_l2_l3",
+      "name_ar": "L’azurde",
+      "category": "store",
+      "location_id": "official_L2_L3_lazurde",
+      "floor": "Level 2, Level 3",
+      "landmarks_ar": [
+        "في الدور الثاني والثالث",
+        "من محلات المجوهرات"
+      ],
+      "desc": "مجوهرات وذهب.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "magrabi_l3",
+      "name_ar": "Magrabi Optical",
+      "category": "store",
+      "location_id": "official_L3_magrabi_optical",
+      "floor": "Level 3",
+      "landmarks_ar": [
+        "في الدور الثالث",
+        "من محلات البصريات"
+      ],
+      "desc": "نظارات طبية وشمس.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "sunglass_hut_l2",
+      "name_ar": "Sunglass Hut",
+      "category": "store",
+      "location_id": "official_L2_sunglass_hut",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "محل نظارات"
+      ],
+      "desc": "نظارات شمس.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "ao_optics_l2",
+      "name_ar": "AO! Optics",
+      "category": "store",
+      "location_id": "official_L2_ao_optics",
+      "floor": "Level 2",
+      "landmarks_ar": [
+        "في الدور الثاني",
+        "من محلات البصريات"
+      ],
+      "desc": "نظارات طبية وشمس.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "alpha_optical_l1",
+      "name_ar": "Alpha Optical",
+      "category": "store",
+      "location_id": "official_L1_alpha_optical",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "محل بصريات"
+      ],
+      "desc": "نظارات طبية وشمس.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "okaidi_l1",
+      "name_ar": "Okaidi OBaiBi",
+      "category": "store",
+      "location_id": "official_L1_okaidi_obaibi",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "اختيار مناسب للأطفال"
+      ],
+      "desc": "ملابس أطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "babyshop_l1",
+      "name_ar": "baby shop",
+      "category": "store",
+      "location_id": "official_L1_babyshop",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "مناسب للأطفال"
+      ],
+      "desc": "ملابس ومستلزمات أطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "stars_cinema_l5",
+      "name_ar": "Stars Cinema",
+      "category": "store",
+      "location_id": "official_L5_stars_cinema",
+      "floor": "Level 5",
+      "landmarks_ar": [
+        "في الدور الخامس",
+        "من مناطق الترفيه الرئيسية"
+      ],
+      "desc": "مجمع سينمات كبير بعدة شاشات.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "golden_stars_cinema_l0",
+      "name_ar": "Golden Stars Cinema Deluxe",
+      "category": "store",
+      "location_id": "official_L0_golden_stars_cinema",
+      "floor": "Level 0",
+      "landmarks_ar": [
+        "في الدور الأرضي",
+        "من أماكن الترفيه"
+      ],
+      "desc": "سينما ديلوكس وقاعات عرض فاخرة.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "adventure_land_l4",
+      "name_ar": "Adventure Land",
+      "category": "store",
+      "location_id": "official_L4_adventure_land",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "منطقة ترفيه"
+      ],
+      "desc": "منطقة ألعاب وترفيه للأطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "ezone_l5",
+      "name_ar": "E-ZONE",
+      "category": "store",
+      "location_id": "official_L5_ezone",
+      "floor": "Level 5",
+      "landmarks_ar": [
+        "في الدور الخامس",
+        "منطقة ترفيه"
+      ],
+      "desc": "منطقة ألعاب إلكترونية وترفيه.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "magic_galaxy_l4_l5",
+      "name_ar": "Magic Galaxy",
+      "category": "store",
+      "location_id": "official_L4_L5_magic_galaxy",
+      "floor": "Level 4, Level 5",
+      "landmarks_ar": [
+        "في الدور الرابع والخامس",
+        "من أشهر أماكن الترفيه"
+      ],
+      "desc": "مدينة ألعاب داخلية كبيرة.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "mickey_park_l4",
+      "name_ar": "Mickey Park",
+      "category": "store",
+      "location_id": "official_L4_mickey_park",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "ترفيه للأطفال"
+      ],
+      "desc": "منطقة ألعاب للأطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "my_town_l4",
+      "name_ar": "My Town",
+      "category": "store",
+      "location_id": "official_L4_my_town",
+      "floor": "Level 4",
+      "landmarks_ar": [
+        "في الدور الرابع",
+        "أنشطة تعليمية وترفيهية"
+      ],
+      "desc": "مدينة تعليمية وترفيهية للأطفال.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "snow_city_l8",
+      "name_ar": "Snow City",
+      "category": "store",
+      "location_id": "official_L8_snow_city",
+      "floor": "Level 8",
+      "landmarks_ar": [
+        "في الدور الثامن",
+        "من أماكن الترفيه المعروفة"
+      ],
+      "desc": "منطقة ترفيه وجو ثلجي.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "xtreme_zone_l0",
+      "name_ar": "Xtreme Zone",
+      "category": "store",
+      "location_id": "official_L0_xtreme_zone",
+      "floor": "Level 0",
+      "landmarks_ar": [
+        "في الدور الأرضي",
+        "منطقة ترفيه"
+      ],
+      "desc": "ترامبولين وألعاب حركة للكبار والصغار.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "intercontinental_l1_l2",
+      "name_ar": "InterContinental Cairo Citystars",
+      "category": "store",
+      "location_id": "official_L1_L2_intercontinental",
+      "floor": "Level 1, Level 2",
+      "landmarks_ar": [
+        "في الدور الأول والثاني",
+        "ضمن مرافق المجمع"
+      ],
+      "desc": "فندق داخل مجمع سيتي ستارز.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "holiday_inn_l1",
+      "name_ar": "Holiday Inn Cairo Citystars",
+      "category": "store",
+      "location_id": "official_L1_holiday_inn",
+      "floor": "Level 1",
+      "landmarks_ar": [
+        "في الدور الأول",
+        "ضمن مرافق المجمع"
+      ],
+      "desc": "فندق داخل مجمع سيتي ستارز.",
+      "is_official_public_directory": true
+    },
+    {
+      "id": "staybridge_l0",
+      "name_ar": "Staybridge Suites",
+      "category": "store",
+      "location_id": "official_L0_staybridge",
+      "floor": "Level 0",
+      "landmarks_ar": [
+        "في الدور الأرضي",
+        "ضمن مرافق المجمع"
+      ],
+      "desc": "فندق/إقامة فندقية داخل المجمع.",
+      "is_official_public_directory": true
+    }
+  ],
+  "routes": [
+    {
+      "to": "المسجد",
+      "aliases": [
+        "المسجد",
+        "المصلى",
+        "مصلى",
+        "مصلى الرجال"
+      ],
+      "responses": [
+        "بصي، لو إنتِ في الدور التاني كمّلي في الممر الرئيسي لحد منطقة الـ ATM، هتلاقي المسجد جنب الحمام تقريبًا.",
+        "لو إنتِ بعيدة شوية، خدي أقرب سلالم أو مصعد للدور التاني، وبعدها امشي على طول لحد ممر الحمامات، المسجد هيكون هناك جنبهم."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي على طول شوية، خلي الفود كورت على ناحية، وبعدها كمّلي لحد ممر الحمامات. المسجد هيكون هناك جنب الحمام.",
+        "بوابة 2": "من بوابة 2 امشي جوه الممر الرئيسي، وبعد أول تقاطع لفي يمين، وكمّلي لحد منطقة الـ ATM. هتلاقي المسجد قريب جدًا من الحمام.",
+        "بوابة 4": "إنتِ في الدور الأول، فالأقرب تطلعي بالدور التاني من المصعد الرئيسي أو السلم الكهربائي، وبعدها امشي على طول لحد ممر الحمامات، المسجد هيبقى جنبهم.",
+        "بوابة 7": "إنتِ تحت، فالأفضل تطلعي الأول للدور الأول وبعدين للدور التاني بالمصعد، وبعدها امشي لحد ممر الحمامات، المسجد جنب الحمام."
+      }
+    },
+    {
+      "to": "الحمام",
+      "aliases": [
+        "الحمام",
+        "الحمامات",
+        "التويلت",
+        "WC"
+      ],
+      "responses": [
+        "أقرب حمام ليكي في الدور التاني جنب المصلى ومنطقة الـ ATM.",
+        "لو إنتِ في الدور الأول، فيه حمام برضه هناك قريب من المصلى والمصعد الرئيسي."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي على طول، وبعد شوية هتوصلي لممر الخدمات. الحمام هيكون قدامك تقريبًا وجنبه المصلى.",
+        "بوابة 5": "إنتِ قريبة من حمام الدور الأول. امشي في نفس الممر لحد المصلى، والحمام هيكون جنبه مباشرة."
+      }
+    },
+    {
+      "to": "زارا",
+      "aliases": [
+        "زارا",
+        "zara"
+      ],
+      "responses": [
+        "زارا في الدور التاني، قريبة من السلم الكهربائي الرئيسي وفي نفس الممر بتاع المحلات الكبيرة.",
+        "لو إنتِ مش في الدور التاني، اطلعي الأول وبعدين خليك ماشية على الممر الرئيسي، هتلاقي زارا قبل منطقة الخدمات."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي على طول شوية في الممر الرئيسي، زارا هتكون على الشمال قبل السلم الكهربائي.",
+        "الاستعلامات": "من الاستعلامات كمّلي على طول، هتلاقي زارا في نفس الخط تقريبًا على الشمال."
+      }
+    },
+    {
+      "to": "H&M",
+      "aliases": [
+        "اتش اند ام",
+        "h&m",
+        "hm"
+      ],
+      "responses": [
+        "H&M في الدور التاني وقريبة من زارا، فلو وصلتي زارا هتلاقيها حواليها مباشرة.",
+        "اطلعي الدور التاني وامشي في الممر الرئيسي، ولما توصلي صف المحلات الكبيرة هتلاقي H&M هناك."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي straight، وبعد شوية هتلاقي H&M على اليمين تقريبًا جنب زارا."
+      }
+    },
+    {
+      "to": "كوستا كوفي",
+      "aliases": [
+        "كوستا",
+        "كوستا كوفي",
+        "costa"
+      ],
+      "responses": [
+        "كوستا كوفي قريبة من الاستعلامات ومنطقة الجلوس في الدور التاني.",
+        "لو إنتِ حواليين الفود كورت فإنتِ قريبة جدًا، امشي ناحية الاستعلامات وهتلاقيها."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي لجوه شوية، خليك ناحية الاستعلامات، كوستا هتبقى واضحة قدامك.",
+        "الفود كورت": "من الفود كورت امشي ناحية الاستعلامات، كوستا قريبة جدًا."
+      }
+    },
+    {
+      "to": "الفود كورت",
+      "aliases": [
+        "الفود كورت",
+        "food court",
+        "منطقة الأكل"
+      ],
+      "responses": [
+        "الفود كورت في الدور التاني قريب من الاستعلامات وبوابة 1.",
+        "لو إنتِ في دور تاني غير الدور التاني، اطلعي الأول وبعدها اسألي على بوابة 1 أو الاستعلامات، الفود كورت قريب منهم."
+      ],
+      "from_variants": {
+        "بوابة 1": "إنتِ أصلًا قريبة جدًا، امشي لجوه شوية وهتلاقي الفود كورت.",
+        "بوابة 4": "اطلعي للدور التاني، وبعدها خليكِ ماشية ناحية الاستعلامات أو بوابة 1، الفود كورت هناك."
+      }
+    },
+    {
+      "to": "الصيدلية",
+      "aliases": [
+        "الصيدلية",
+        "صيدلية",
+        "دواء"
+      ],
+      "responses": [
+        "الصيدلية اللي في الديمو موجودة في الدور الأول، قريبة من المصعد الرئيسي والحمام.",
+        "لو إنتِ في الدور التاني، انزلي للدور الأول بالمصعد، وبعد ما تطلعي من المصعد امشي سنة صغيرة، الصيدلية هتكون قريبة."
+      ],
+      "from_variants": {
+        "بوابة 5": "من بوابة 5 امشي لجوه شوية، هتلاقي المصعد، والصيدلية قريبة منه.",
+        "بوابة 1": "من بوابة 1 انزلي الدور الأول، وبعد ما تطلعي من المصعد امشي سنة صغيرة، الصيدلية هتكون قريبة."
+      }
+    },
+    {
+      "to": "ATM",
+      "aliases": [
+        "atm",
+        "اي تي ام",
+        "ماكينة",
+        "سحب فلوس"
+      ],
+      "responses": [
+        "فيه منطقة ATM واضحة في الدور التاني جنب الحمام والمصلى.",
+        "وكمان فيه ATM في الدور الأول قريب من المصعد الرئيسي."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي على طول لحد ممر الخدمات، هتلاقي الـ ATM هناك.",
+        "بوابة 5": "من بوابة 5 إنتِ قريبة من ATM الدور الأول، امشي لحد المصعد وهتلاقيهم حواليه."
+      }
+    },
+    {
+      "to": "المصعد",
+      "aliases": [
+        "المصعد",
+        "elevator",
+        "الاسانسير"
+      ],
+      "responses": [
+        "أقرب مصعد يعتمد على الدور اللي إنتِ فيه، بس فيه مصعد رئيسي واضح في الدور الأول ومصعد تاني قريب من الممر الكبير في الدور التاني.",
+        "لو هدفك تغيري الدور بسرعة، خدي المصعد الرئيسي في النص تقريبًا."
+      ],
+      "from_variants": {
+        "بوابة 5": "أقرب حاجة ليكي غالبًا مصعد الدور الأول. امشي شوية جوه وهتلاقيه قريب.",
+        "بوابة 1": "في الدور التاني فيه مصعد قريب من صف المحلات الكبيرة. امشي على طول في الممر الرئيسي وهتلاقيه."
+      }
+    },
+    {
+      "to": "سعودي ماركت",
+      "aliases": [
+        "سعودي",
+        "سعودي ماركت",
+        "السوبرماركت",
+        "سوبرماركت"
+      ],
+      "responses": [
+        "سعودي ماركت في الدور الأول، قريب من بوابة 5 وجنب المصعد الرئيسي."
+      ],
+      "from_variants": {
+        "بوابة 5": "إنتِ قريبة جداً، امشي لجوه شوية وهتلاقي سعودي ماركت على طول.",
+        "بوابة 1": "من بوابة 1 انزلي للدور الأول بالمصعد، وبعدين امشي ناحية بوابة 5، هتلاقي سعودي ماركت هناك."
+      }
+    },
+    {
+      "to": "سي رانش",
+      "aliases": [
+        "سي رانش",
+        "sea ranch"
+      ],
+      "responses": [
+        "سي رانش في الفود كورت في الدور التاني، أشهر حاجة عندهم بيتزا المأكولات البحرية."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي لجوه شوية، الفود كورت هيكون قدامك وسي رانش جوه على طول."
+      }
+    },
+    {
+      "to": "بي سي",
+      "aliases": [
+        "بي سي",
+        "bc",
+        "b.c"
+      ],
+      "responses": [
+        "بي سي في الفود كورت في الدور التاني، جنب سي رانش، بيعملوا بيتزا إيطالي وباستا كريمي."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي لجوه، الفود كورت هيكون قدامك وبي سي جوه جنب سي رانش."
+      }
+    },
+    {
+      "to": "السينما",
+      "aliases": [
+        "السينما",
+        "cinema",
+        "movies"
+      ],
+      "responses": [
+        "السينما في الديمو متحطوطة على دور أعلى، فالأفضل تركبي المصعد وبعدها تمشي في آخر الممر.",
+        "لو إنتِ تحت، اطلعي الأول للمصعد الرئيسي وبعدها كمّلي للدور المخصص للسينما، هتلاقي المنطقة في آخر الممر."
+      ],
+      "from_variants": {
+        "بوابة 1": "من بوابة 1 امشي للمصعد، اطلعي للدور الأعلى، وبعدها كمّلي على طول لآخر الممر، هتلاقي السينما هناك."
+      }
+    },
+    {
+      "to": "ڤيرجن ميجا ستور",
+      "aliases": [
+        "ڤيرجن ميجا ستور"
+      ],
+      "responses": [
+        "ڤيرجن ميجا ستور في Level 2 قريب من المصعد، في نفس ممر الـ ATM."
+      ]
+    },
+    {
+      "to": "صيدلية العائلة",
+      "aliases": [
+        "صيدلية العائلة"
+      ],
+      "responses": [
+        "صيدلية العائلة في Level 1 جنب المصعد، قريبة من الحمام."
+      ]
+    },
+    {
+      "to": "محل أطفال",
+      "aliases": [
+        "محل أطفال"
+      ],
+      "responses": [
+        "محل أطفال في Level 1 قريب من مصعد الدور الأول، جنب ممشى رئيسي."
+      ]
+    },
+    {
+      "to": "أديداس",
+      "aliases": [
+        "أديداس"
+      ],
+      "responses": [
+        "أديداس في Level 1، ملابس وأحذية رياضية. على نفس صف المحلات، بعد السلم الكهربائي."
+      ]
+    },
+    {
+      "to": "سيفورا",
+      "aliases": [
+        "سيفورا"
+      ],
+      "responses": [
+        "سيفورا في Level 3، مكياج وعطور وسكين كير من أشهر الماركات. جنب الممر الرئيسي، قريبة من المصعد."
+      ]
+    },
+    {
+      "to": "منطقة السينما",
+      "aliases": [
+        "منطقة السينما"
+      ],
+      "responses": [
+        "منطقة السينما في Level 4، منطقة ترفيه وسينما. بعد المصعد، في آخر الممر."
+      ]
+    },
+    {
+      "to": "ستاربكس",
+      "aliases": [
+        "ستاربكس",
+        "starbucks",
+        "ستارباكس"
+      ],
+      "responses": [
+        "ستاربكس في Level 1, Level 2، قهوة ومشروبات باردة وساخنة وسناكس خفيفة. من الكافيهات المعروفة في المول، مناسب للقاعدة السريعة."
+      ]
+    },
+    {
+      "to": "كاريبو كوفي",
+      "aliases": [
+        "كاريبو كوفي",
+        "caribou",
+        "caribou coffee",
+        "كاريبو"
+      ],
+      "responses": [
+        "كاريبو كوفي في Level 1، كافيه للقهوة المتخصصة والمشروبات السريعة. على نفس الدور مع محلات كثيرة، كويس للقهوة السريعة."
+      ]
+    },
+    {
+      "to": "دانكن",
+      "aliases": [
+        "دانكن",
+        "dunkin",
+        "dunkin donuts",
+        "دانكن دونتس"
+      ],
+      "responses": [
+        "دانكن في Level 1، قهوة ودوناتس وسناكس خفيفة. قريب من مسار المحلات، مناسب للحاجة السريعة."
+      ]
+    },
+    {
+      "to": "PAUL",
+      "aliases": [
+        "PAUL",
+        "بول",
+        "paul"
+      ],
+      "responses": [
+        "PAUL في Level 3، بيكري وكافيه وفطار خفيف وحلويات. على الدور الثالث، مناسب للفطار والقهوة."
+      ]
+    },
+    {
+      "to": "Espresso Lab",
+      "aliases": [
+        "Espresso Lab"
+      ],
+      "responses": [
+        "Espresso Lab في Level 3، كافيه للقهوة المتخصصة. في الدور الثالث، اختيار مناسب للقهوة."
+      ]
+    },
+    {
+      "to": "سيلانترو",
+      "aliases": [
+        "سيلانترو"
+      ],
+      "responses": [
+        "سيلانترو في Level 5، كافيه وقهوة ومشروبات وحلويات خفيفة. في الدور الخامس، مناسب للقعدة السريعة."
+      ]
+    },
+    {
+      "to": "Brioche Dorée",
+      "aliases": [
+        "Brioche Dorée"
+      ],
+      "responses": [
+        "Brioche Dorée في Level 2، مخبوزات وكافيه وفطار خفيف. على الدور الثاني، كويس للفطار السريع."
+      ]
+    },
+    {
+      "to": "Krispy Kreme",
+      "aliases": [
+        "Krispy Kreme"
+      ],
+      "responses": [
+        "Krispy Kreme في Level 1، دوناتس ومشروبات ساخنة وباردة. في الدور الأول، لو عايزة حاجة حلوة."
+      ]
+    },
+    {
+      "to": "NOLA",
+      "aliases": [
+        "NOLA"
+      ],
+      "responses": [
+        "NOLA في Level 1، حلويات وكيك وميني حلو. في الدور الأول، اختيار مناسب للتحلية."
+      ]
+    },
+    {
+      "to": "ماكدونالدز",
+      "aliases": [
+        "ماكدونالدز",
+        "mcdonalds",
+        "mcdonald's",
+        "ماك"
+      ],
+      "responses": [
+        "ماكدونالدز في Level 6, Level 8، برجر ووجبات سريعة ومشروبات. في منطقة الأكل، مناسب للأكل السريع."
+      ]
+    },
+    {
+      "to": "كنتاكي",
+      "aliases": [
+        "كنتاكي",
+        "kfc",
+        "kentucky",
+        "كي اف سي"
+      ],
+      "responses": [
+        "كنتاكي في Level 6, Level 8، فرايد تشيكن ووجبات سريعة. في منطقة المطاعم، مناسب للوجبات السريعة."
+      ]
+    },
+    {
+      "to": "Buffalo Burger",
+      "aliases": [
+        "Buffalo Burger",
+        "بافلو برجر",
+        "buffalo"
+      ],
+      "responses": [
+        "Buffalo Burger في Level 8، برجر ووجبات سريعة. في الدور الثامن، من اختيارات البرجر."
+      ]
+    },
+    {
+      "to": "Papa John's",
+      "aliases": [
+        "Papa John's",
+        "بابا جونز",
+        "papa johns",
+        "pizza"
+      ],
+      "responses": [
+        "Papa John's في Level 8، بيتزا وسايدز. في منطقة الأكل، لو عايزة بيتزا."
+      ]
+    },
+    {
+      "to": "أبو طارق",
+      "aliases": [
+        "أبو طارق"
+      ],
+      "responses": [
+        "أبو طارق في Level 6، كشري وأكل مصري سريع. في الدور السادس، وجبة مصرية سريعة."
+      ]
+    },
+    {
+      "to": "زوبا",
+      "aliases": [
+        "زوبا",
+        "zooba"
+      ],
+      "responses": [
+        "زوبا في Level 4، أكل مصري حديث وسريع. في الدور الرابع، اختيار مناسب للأكل المصري."
+      ]
+    },
+    {
+      "to": "Chili's",
+      "aliases": [
+        "Chili's"
+      ],
+      "responses": [
+        "Chili's في Level 5، مطعم أمريكاني ووجبات رئيسية وبرجر. في الدور الخامس، مطعم جلسة أكتر من فاست فود."
+      ]
+    },
+    {
+      "to": "Casper & Gambini's",
+      "aliases": [
+        "Casper & Gambini's"
+      ],
+      "responses": [
+        "Casper & Gambini's في Level 3، مطعم وكافيه، فيه أكل وقهوة وحلويات. في الدور الثالث، مناسب للأكل والقهوة."
+      ]
+    },
+    {
+      "to": "Bosporus",
+      "aliases": [
+        "Bosporus"
+      ],
+      "responses": [
+        "Bosporus في Level 4، مطعم يقدم أطباق تركية ومشاوي. في الدور الرابع، مطعم جلسة."
+      ]
+    },
+    {
+      "to": "أبو السيد",
+      "aliases": [
+        "أبو السيد",
+        "abou el sid",
+        "abu elsid"
+      ],
+      "responses": [
+        "أبو السيد في Level 4، مطعم أكل شرقي ومصري. في الدور الرابع، مطعم معروف."
+      ]
+    },
+    {
+      "to": "Maharaja",
+      "aliases": [
+        "Maharaja"
+      ],
+      "responses": [
+        "Maharaja في Level 5، مطعم أكل هندي. في الدور الخامس، لو عايزة أكل هندي."
+      ]
+    },
+    {
+      "to": "Sizzler",
+      "aliases": [
+        "Sizzler"
+      ],
+      "responses": [
+        "Sizzler في Level 4، مطعم مشويات وستيك. في الدور الرابع، مطعم جلسة."
+      ]
+    },
+    {
+      "to": "Sushi Bay",
+      "aliases": [
+        "Sushi Bay"
+      ],
+      "responses": [
+        "Sushi Bay في Level 0، سوشي وأكلات آسيوية. في الدور الأرضي، لو عايزة سوشي."
+      ]
+    },
+    {
+      "to": "Mori Sushi",
+      "aliases": [
+        "Mori Sushi"
+      ],
+      "responses": [
+        "Mori Sushi في Level 0، سوشي ومأكولات آسيوية. في الدور الأرضي، اختيار مناسب للسوشي."
+      ]
+    },
+    {
+      "to": "Spectra",
+      "aliases": [
+        "Spectra"
+      ],
+      "responses": [
+        "Spectra في Level 6، مطعم وكافيه وجلسة كاملة. في الدور السادس، مطعم جلسة."
+      ]
+    },
+    {
+      "to": "Planet Africa",
+      "aliases": [
+        "Planet Africa"
+      ],
+      "responses": [
+        "Planet Africa في Level 5, Level 6، مطعم جلسة ومنيو متنوع. في الدور الخامس والسادس، مطعم كبير."
+      ]
+    },
+    {
+      "to": "Nişantaşı",
+      "aliases": [
+        "Nişantaşı"
+      ],
+      "responses": [
+        "Nişantaşı في Level 5، مطعم وكافيه بطابع تركي. في الدور الخامس، جلسة ومشروبات وأكل."
+      ]
+    },
+    {
+      "to": "Shogun Japanese Restaurant",
+      "aliases": [
+        "Shogun Japanese Restaurant"
+      ],
+      "responses": [
+        "Shogun Japanese Restaurant في Level 1, Level 2، مطعم ياباني وسوشي. في الدور الأول والثاني، مطعم مميز للأكل الياباني."
+      ]
+    },
+    {
+      "to": "La Mie",
+      "aliases": [
+        "La Mie"
+      ],
+      "responses": [
+        "La Mie في Level 0، بيكري وكافيه ومخبوزات. في الدور الأرضي، كويس للفطار السريع."
+      ]
+    },
+    {
+      "to": "Fuddruckers",
+      "aliases": [
+        "Fuddruckers"
+      ],
+      "responses": [
+        "Fuddruckers في Level 1، برجر ووجبات أمريكاني. في الدور الأول، اختيار برجر معروف."
+      ]
+    },
+    {
+      "to": "Maestro Italian Restaurant",
+      "aliases": [
+        "Maestro Italian Restaurant"
+      ],
+      "responses": [
+        "Maestro Italian Restaurant في Level 1, Level 2، مطعم إيطالي للبيتزا والباستا. في الدور الأول والثاني، لو عايزة أكل إيطالي."
+      ]
+    },
+    {
+      "to": "VILLA DI NAPOLI",
+      "aliases": [
+        "VILLA DI NAPOLI"
+      ],
+      "responses": [
+        "VILLA DI NAPOLI في Level 0، مطعم إيطالي وبيتزا وباستا. في الدور الأرضي، مطعم إيطالي."
+      ]
+    },
+    {
+      "to": "LC Waikiki",
+      "aliases": [
+        "LC Waikiki",
+        "وايكيكي",
+        "ال سي وايكيكي",
+        "lcw",
+        "waikiki"
+      ],
+      "responses": [
+        "LC Waikiki في Level 3، ملابس كاجوال ورجالي وحريمي وأطفال. في الدور الثالث، من محلات الملابس المعروفة."
+      ]
+    },
+    {
+      "to": "Mango",
+      "aliases": [
+        "Mango"
+      ],
+      "responses": [
+        "Mango في Level 2، ملابس حريمي وكاجوال. في الدور الثاني، ضمن منطقة الأزياء."
+      ]
+    },
+    {
+      "to": "Massimo Dutti",
+      "aliases": [
+        "Massimo Dutti",
+        "ماسيمو دوتي",
+        "massimo",
+        "dutti"
+      ],
+      "responses": [
+        "Massimo Dutti في Level 3، أزياء كلاسيك وكاجوال. في الدور الثالث، ضمن محلات الفاشون."
+      ]
+    },
+    {
+      "to": "Lefties",
+      "aliases": [
+        "Lefties",
+        "ليفتيز",
+        "lefties"
+      ],
+      "responses": [
+        "Lefties في Level 2، ملابس كاجوال وأساسيّات. في الدور الثاني، قريب من منطقة محلات الأزياء."
+      ]
+    },
+    {
+      "to": "Pull&Bear",
+      "aliases": [
+        "Pull&Bear",
+        "بول اند بير",
+        "pull and bear",
+        "pull&bear"
+      ],
+      "responses": [
+        "Pull&Bear في Level 2، ملابس كاجوال وشبابي. في الدور الثاني، من محلات الكاجوال."
+      ]
+    },
+    {
+      "to": "Bershka",
+      "aliases": [
+        "Bershka",
+        "بيرشكا",
+        "bershka"
+      ],
+      "responses": [
+        "Bershka في Level 2، ملابس شبابي وكاجوال. في الدور الثاني، ضمن محلات الأزياء."
+      ]
+    },
+    {
+      "to": "American Eagle",
+      "aliases": [
+        "American Eagle",
+        "امريكان ايجل",
+        "american eagle"
+      ],
+      "responses": [
+        "American Eagle في Level 2، ملابس كاجوال وجينز. في الدور الثاني، من البراندات المعروفة."
+      ]
+    },
+    {
+      "to": "Guess",
+      "aliases": [
+        "Guess"
+      ],
+      "responses": [
+        "Guess في Level 3، ملابس وإكسسوارات. في الدور الثالث، من محلات البراندات."
+      ]
+    },
+    {
+      "to": "Tommy Hilfiger",
+      "aliases": [
+        "Tommy Hilfiger",
+        "تومي",
+        "tommy",
+        "tommy hilfiger"
+      ],
+      "responses": [
+        "Tommy Hilfiger في Level 3، ملابس وإكسسوارات. في الدور الثالث، من محلات البراندات."
+      ]
+    },
+    {
+      "to": "Lacoste",
+      "aliases": [
+        "Lacoste",
+        "لاكوست",
+        "lacoste"
+      ],
+      "responses": [
+        "Lacoste في Level 2، ملابس كاجوال وبولو. في الدور الثاني، من البراندات المعروفة."
+      ]
+    },
+    {
+      "to": "Levi's",
+      "aliases": [
+        "Levi's",
+        "ليفايز",
+        "levi",
+        "levi's"
+      ],
+      "responses": [
+        "Levi's في Level 3، جينز وملابس كاجوال. في الدور الثالث، محل معروف للچينز."
+      ]
+    },
+    {
+      "to": "Max",
+      "aliases": [
+        "Max",
+        "ماكس",
+        "max fashion"
+      ],
+      "responses": [
+        "Max في Level 1، ملابس للرجال والحريمي والأطفال. في الدور الأول، اختيار مناسب للعيلة."
+      ]
+    },
+    {
+      "to": "Marks & Spencer",
+      "aliases": [
+        "Marks & Spencer",
+        "ماركس اند سبنسر",
+        "marks and spencer"
+      ],
+      "responses": [
+        "Marks & Spencer في Level 1، ملابس وكاجوال وأساسيّات. في الدور الأول، محل شامل للملابس."
+      ]
+    },
+    {
+      "to": "Reserved",
+      "aliases": [
+        "Reserved",
+        "ريزيرفد",
+        "reserved"
+      ],
+      "responses": [
+        "Reserved في Level 2، ملابس كاجوال وحديثة. في الدور الثاني، ضمن محلات الفاشون."
+      ]
+    },
+    {
+      "to": "Koton",
+      "aliases": [
+        "Koton",
+        "كوتون",
+        "cotton? no",
+        "koton"
+      ],
+      "responses": [
+        "Koton في Level 2, Level 3، ملابس كاجوال وحريمي وأطفال. في الدور الثاني والثالث، من محلات الملابس المعروفة."
+      ]
+    },
+    {
+      "to": "DeFacto",
+      "aliases": [
+        "DeFacto",
+        "دي فاكتو",
+        "defacto"
+      ],
+      "responses": [
+        "DeFacto في Level 4، ملابس كاجوال ومتنوعة. في الدور الرابع، اختيار مناسب للملابس اليومية."
+      ]
+    },
+    {
+      "to": "MOBACO COTTONS",
+      "aliases": [
+        "MOBACO COTTONS"
+      ],
+      "responses": [
+        "MOBACO COTTONS في Level 2، ملابس وكاجوال وقمصان. في الدور الثاني، محل ملابس معروف."
+      ]
+    },
+    {
+      "to": "CONCRETE",
+      "aliases": [
+        "CONCRETE"
+      ],
+      "responses": [
+        "CONCRETE في Level 3، ملابس رجالي وكاجوال. في الدور الثالث، ضمن محلات الرجال."
+      ]
+    },
+    {
+      "to": "Cortefiel",
+      "aliases": [
+        "Cortefiel"
+      ],
+      "responses": [
+        "Cortefiel في Level 1، ملابس كاجوال وكلاسيك. في الدور الأول، من محلات الأزياء."
+      ]
+    },
+    {
+      "to": "Colin's",
+      "aliases": [
+        "Colin's"
+      ],
+      "responses": [
+        "Colin's في Level 2، ملابس جينز وكاجوال. في الدور الثاني، محل كاجوال."
+      ]
+    },
+    {
+      "to": "Decathlon",
+      "aliases": [
+        "Decathlon",
+        "ديكاتلون",
+        "decathlon"
+      ],
+      "responses": [
+        "Decathlon في Level 1، معدات وملابس رياضية متنوعة. في الدور الأول، محل رياضي كبير."
+      ]
+    },
+    {
+      "to": "Puma",
+      "aliases": [
+        "Puma",
+        "بوما",
+        "puma"
+      ],
+      "responses": [
+        "Puma في Level 2، ملابس وأحذية رياضية. في الدور الثاني، من البراندات الرياضية."
+      ]
+    },
+    {
+      "to": "New Balance",
+      "aliases": [
+        "New Balance",
+        "نيو بالانس",
+        "new balance"
+      ],
+      "responses": [
+        "New Balance في Level 2، أحذية وملابس رياضية. في الدور الثاني، لو عايزة كوتشي رياضي."
+      ]
+    },
+    {
+      "to": "Reebok",
+      "aliases": [
+        "Reebok",
+        "ريبوك",
+        "reebok"
+      ],
+      "responses": [
+        "Reebok في Level 4، أحذية وملابس رياضية. في الدور الرابع، من محلات الرياضة."
+      ]
+    },
+    {
+      "to": "ASICS",
+      "aliases": [
+        "ASICS",
+        "اسيكس",
+        "asics"
+      ],
+      "responses": [
+        "ASICS في Level 4، أحذية ومستلزمات رياضية. في الدور الرابع، مناسب للجري والرياضة."
+      ]
+    },
+    {
+      "to": "Skechers",
+      "aliases": [
+        "Skechers",
+        "سكتشرز",
+        "skechers"
+      ],
+      "responses": [
+        "Skechers في Level 1، أحذية مريحة وكاجوال ورياضية. في الدور الأول، لو عايزة كوتشي مريح."
+      ]
+    },
+    {
+      "to": "Crocs",
+      "aliases": [
+        "Crocs",
+        "كروكس",
+        "crocs"
+      ],
+      "responses": [
+        "Crocs في Level -2, Level 2، أحذية وكاجوال خفيف. في الدور الثاني وكمان -2، براند معروف."
+      ]
+    },
+    {
+      "to": "ALDO",
+      "aliases": [
+        "ALDO",
+        "ألدو",
+        "aldo"
+      ],
+      "responses": [
+        "ALDO في Level 2، أحذية وشنط. في الدور الثاني، لو عايزة جزمة أو شنطة."
+      ]
+    },
+    {
+      "to": "CHARLES & KEITH",
+      "aliases": [
+        "CHARLES & KEITH",
+        "charles and keith",
+        "تشارلز اند كيث"
+      ],
+      "responses": [
+        "CHARLES & KEITH في Level 3، أحذية وشنط وإكسسوارات. في الدور الثالث، من محلات الشوز والشنط."
+      ]
+    },
+    {
+      "to": "Clarks",
+      "aliases": [
+        "Clarks",
+        "كلاركس",
+        "clarks"
+      ],
+      "responses": [
+        "Clarks في Level 1، أحذية جلد وكاجوال. في الدور الأول، محل أحذية معروف."
+      ]
+    },
+    {
+      "to": "Converse",
+      "aliases": [
+        "Converse",
+        "كونفرس",
+        "converse"
+      ],
+      "responses": [
+        "Converse في Level 2، أحذية وكاجوال. في الدور الثاني، لو عايزة كوتشي كاجوال."
+      ]
+    },
+    {
+      "to": "GEOX",
+      "aliases": [
+        "GEOX"
+      ],
+      "responses": [
+        "GEOX في Level 3، أحذية وكاجوال. في الدور الثالث، ضمن محلات الأحذية."
+      ]
+    },
+    {
+      "to": "Samsonite",
+      "aliases": [
+        "Samsonite"
+      ],
+      "responses": [
+        "Samsonite في Level 1، شنط سفر وحقائب. في الدور الأول، لو عايزة شنط سفر."
+      ]
+    },
+    {
+      "to": "Carpisa",
+      "aliases": [
+        "Carpisa",
+        "كاربيزا",
+        "carpisa"
+      ],
+      "responses": [
+        "Carpisa في Level 2، شنط وإكسسوارات. في الدور الثاني، لو عايزة شنطة."
+      ]
+    },
+    {
+      "to": "Parfois",
+      "aliases": [
+        "Parfois",
+        "بارفواه",
+        "parfois"
+      ],
+      "responses": [
+        "Parfois في Level 1، إكسسوارات وشنط. في الدور الأول، من محلات الإكسسوارات."
+      ]
+    },
+    {
+      "to": "Miniso",
+      "aliases": [
+        "Miniso",
+        "مينيسو",
+        "miniso"
+      ],
+      "responses": [
+        "Miniso في Level 4، إكسسوارات ومنتجات منزلية وهدايا. في الدور الرابع، محل متنوع."
+      ]
+    },
+    {
+      "to": "MICHAEL KORS",
+      "aliases": [
+        "MICHAEL KORS"
+      ],
+      "responses": [
+        "MICHAEL KORS في Level 3، شنط وإكسسوارات وبراند فاخر. في الدور الثالث، من محلات البراندات."
+      ]
+    },
+    {
+      "to": "Pandora",
+      "aliases": [
+        "Pandora",
+        "باندورا",
+        "pandora"
+      ],
+      "responses": [
+        "Pandora في Level 2، مجوهرات وإكسسوارات. في الدور الثاني، لو عايزة إكسسوارات أو هدية."
+      ]
+    },
+    {
+      "to": "SWAROVSKI",
+      "aliases": [
+        "SWAROVSKI",
+        "سواروفسكي",
+        "swarovski"
+      ],
+      "responses": [
+        "SWAROVSKI في Level 3، مجوهرات وإكسسوارات كريستال. في الدور الثالث، محل هدايا وإكسسوارات."
+      ]
+    },
+    {
+      "to": "L’azurde",
+      "aliases": [
+        "L’azurde"
+      ],
+      "responses": [
+        "L’azurde في Level 2, Level 3، مجوهرات وذهب. في الدور الثاني والثالث، من محلات المجوهرات."
+      ]
+    },
+    {
+      "to": "Magrabi Optical",
+      "aliases": [
+        "Magrabi Optical",
+        "مغربي",
+        "maghrabi",
+        "magrabi"
+      ],
+      "responses": [
+        "Magrabi Optical في Level 3، نظارات طبية وشمس. في الدور الثالث، من محلات البصريات."
+      ]
+    },
+    {
+      "to": "Sunglass Hut",
+      "aliases": [
+        "Sunglass Hut",
+        "سانجلاس هت",
+        "sunglass hut"
+      ],
+      "responses": [
+        "Sunglass Hut في Level 2، نظارات شمس. في الدور الثاني، محل نظارات."
+      ]
+    },
+    {
+      "to": "AO! Optics",
+      "aliases": [
+        "AO! Optics"
+      ],
+      "responses": [
+        "AO! Optics في Level 2، نظارات طبية وشمس. في الدور الثاني، من محلات البصريات."
+      ]
+    },
+    {
+      "to": "Alpha Optical",
+      "aliases": [
+        "Alpha Optical"
+      ],
+      "responses": [
+        "Alpha Optical في Level 1، نظارات طبية وشمس. في الدور الأول، محل بصريات."
+      ]
+    },
+    {
+      "to": "Okaidi OBaiBi",
+      "aliases": [
+        "Okaidi OBaiBi",
+        "اوكايدي",
+        "okaidi"
+      ],
+      "responses": [
+        "Okaidi OBaiBi في Level 1، ملابس أطفال. في الدور الأول، اختيار مناسب للأطفال."
+      ]
+    },
+    {
+      "to": "baby shop",
+      "aliases": [
+        "baby shop",
+        "بيبي شوب",
+        "babyshop"
+      ],
+      "responses": [
+        "baby shop في Level 1، ملابس ومستلزمات أطفال. في الدور الأول، مناسب للأطفال."
+      ]
+    },
+    {
+      "to": "Stars Cinema",
+      "aliases": [
+        "Stars Cinema",
+        "السينما",
+        "stars cinema",
+        "سينما"
+      ],
+      "responses": [
+        "Stars Cinema في Level 5، مجمع سينمات كبير بعدة شاشات. في الدور الخامس، من مناطق الترفيه الرئيسية."
+      ]
+    },
+    {
+      "to": "Golden Stars Cinema Deluxe",
+      "aliases": [
+        "Golden Stars Cinema Deluxe",
+        "golden stars cinema",
+        "سينما ديلوكس"
+      ],
+      "responses": [
+        "Golden Stars Cinema Deluxe في Level 0، سينما ديلوكس وقاعات عرض فاخرة. في الدور الأرضي، من أماكن الترفيه."
+      ]
+    },
+    {
+      "to": "Adventure Land",
+      "aliases": [
+        "Adventure Land",
+        "adventure land"
+      ],
+      "responses": [
+        "Adventure Land في Level 4، منطقة ألعاب وترفيه للأطفال. في الدور الرابع، منطقة ترفيه."
+      ]
+    },
+    {
+      "to": "E-ZONE",
+      "aliases": [
+        "E-ZONE"
+      ],
+      "responses": [
+        "E-ZONE في Level 5، منطقة ألعاب إلكترونية وترفيه. في الدور الخامس، منطقة ترفيه."
+      ]
+    },
+    {
+      "to": "Magic Galaxy",
+      "aliases": [
+        "Magic Galaxy",
+        "ماجيك جالاكسي",
+        "magic galaxy"
+      ],
+      "responses": [
+        "Magic Galaxy في Level 4, Level 5، مدينة ألعاب داخلية كبيرة. في الدور الرابع والخامس، من أشهر أماكن الترفيه."
+      ]
+    },
+    {
+      "to": "Mickey Park",
+      "aliases": [
+        "Mickey Park",
+        "mickey park"
+      ],
+      "responses": [
+        "Mickey Park في Level 4، منطقة ألعاب للأطفال. في الدور الرابع، ترفيه للأطفال."
+      ]
+    },
+    {
+      "to": "My Town",
+      "aliases": [
+        "My Town",
+        "my town",
+        "ماي تاون"
+      ],
+      "responses": [
+        "My Town في Level 4، مدينة تعليمية وترفيهية للأطفال. في الدور الرابع، أنشطة تعليمية وترفيهية."
+      ]
+    },
+    {
+      "to": "Snow City",
+      "aliases": [
+        "Snow City",
+        "سنو سيتي",
+        "snow city"
+      ],
+      "responses": [
+        "Snow City في Level 8، منطقة ترفيه وجو ثلجي. في الدور الثامن، من أماكن الترفيه المعروفة."
+      ]
+    },
+    {
+      "to": "Xtreme Zone",
+      "aliases": [
+        "Xtreme Zone",
+        "اكستريم زون",
+        "xtreme zone"
+      ],
+      "responses": [
+        "Xtreme Zone في Level 0، ترامبولين وألعاب حركة للكبار والصغار. في الدور الأرضي، منطقة ترفيه."
+      ]
+    },
+    {
+      "to": "InterContinental Cairo Citystars",
+      "aliases": [
+        "InterContinental Cairo Citystars",
+        "intercontinental"
+      ],
+      "responses": [
+        "InterContinental Cairo Citystars في Level 1, Level 2، فندق داخل مجمع سيتي ستارز. في الدور الأول والثاني، ضمن مرافق المجمع."
+      ]
+    },
+    {
+      "to": "Holiday Inn Cairo Citystars",
+      "aliases": [
+        "Holiday Inn Cairo Citystars",
+        "holiday inn"
+      ],
+      "responses": [
+        "Holiday Inn Cairo Citystars في Level 1، فندق داخل مجمع سيتي ستارز. في الدور الأول، ضمن مرافق المجمع."
+      ]
+    },
+    {
+      "to": "Staybridge Suites",
+      "aliases": [
+        "Staybridge Suites",
+        "staybridge"
+      ],
+      "responses": [
+        "Staybridge Suites في Level 0، فندق/إقامة فندقية داخل المجمع. في الدور الأرضي، ضمن مرافق المجمع."
+      ]
+    }
+  ],
+  "food_recommendations": {
+    "بيتزا": [
+      "Papa John's",
+      "Maestro Italian Restaurant",
+      "VILLA DI NAPOLI"
+    ],
+    "مأكولات بحرية": [
+      "سي رانش - متخصصين في السمك والجمبري"
+    ],
+    "قهوة": [
+      "كوستا كوفي - قهوة ومشروبات",
+      "ستاربكس - قهوة ومشروبات",
+      "كاريبو كوفي - قهوة متخصصة",
+      "PAUL - قهوة ومخبوزات"
+    ],
+    "باستا": [
+      "Maestro Italian Restaurant",
+      "Casper & Gambini's",
+      "VILLA DI NAPOLI"
+    ],
+    "أكل سريع": [
+      "الفود كورت - فيه خيارات متنوعة"
+    ],
+    "حاجة حلوة": [
+      "دانكن",
+      "Krispy Kreme",
+      "NOLA",
+      "كوستا كوفي"
+    ],
+    "كافيه": [
+      "كوستا كوفي",
+      "ستاربكس",
+      "كاريبو كوفي",
+      "سيلانترو"
+    ],
+    "برجر": [
+      "ماكدونالدز",
+      "Buffalo Burger",
+      "Fuddruckers",
+      "Chili's"
+    ],
+    "سوشي": [
+      "Sushi Bay",
+      "Mori Sushi",
+      "Shogun Japanese Restaurant"
+    ],
+    "فطار": [
+      "PAUL",
+      "Brioche Dorée",
+      "La Mie",
+      "زوبا"
+    ]
+  },
+  "clothing_recommendations": {
+    "بلوفر": [
+      "زارا",
+      "H&M",
+      "Massimo Dutti",
+      "LC Waikiki"
+    ],
+    "لبس كاجوال": [
+      "زارا",
+      "H&M",
+      "American Eagle",
+      "Reserved",
+      "Pull&Bear"
+    ],
+    "لبس رياضي": [
+      "أديداس",
+      "Puma",
+      "New Balance",
+      "Decathlon"
+    ],
+    "كوتشي": [
+      "Skechers",
+      "Puma",
+      "New Balance",
+      "Crocs"
+    ],
+    "مكياج": [
+      "سيفورا"
+    ],
+    "عطر": [
+      "سيفورا"
+    ],
+    "لبس أطفال": [
+      "زارا",
+      "H&M",
+      "Okaidi OBaiBi",
+      "baby shop"
+    ],
+    "جزمة": [
+      "ALDO",
+      "Clarks",
+      "CHARLES & KEITH",
+      "Skechers"
+    ],
+    "فستان": [
+      "Mango",
+      "زارا",
+      "H&M",
+      "Massimo Dutti"
+    ],
+    "هدوم": [
+      "زارا",
+      "H&M",
+      "LC Waikiki",
+      "Koton",
+      "Max"
+    ],
+    "لبس": [
+      "زارا",
+      "H&M",
+      "LC Waikiki",
+      "Koton",
+      "Max"
+    ]
+  }
+}

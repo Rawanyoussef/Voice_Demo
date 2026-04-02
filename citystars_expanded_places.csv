@@ -1,0 +1,121 @@
+﻿id,name_ar,category,floor,location_id,desc,landmarks,is_official_public_directory
+mosque_l2,المسجد,mosque,Level 2,K2_mosque_01,,جنب الحمام | قريب من منطقة الـ ATM | قريب من ممر المحلات الكبيرة,
+male_mosque_l2,مصلى الرجال,mosque,Level 2,K2_malemosque_01,,جنب الحمام | قريب من الممر الرئيسي,
+wc_l2,الحمام,wc,Level 2,K2_wc_01,,جنب المصلى | قريب من مصعد الدور التاني,
+babycare_l2,غرفة رعاية الأطفال,babycare,Level 2,K2_babycare_01,,جنب المصلى | قريب من الحمام,
+atm_zone_l2,منطقة الـ ATM,atm,Level 2,K2_store_atm01,,قريبة من الحمام | في الممر الجانبي,
+elevator_l2_east,مصعد الدور التاني الشرقي,elevator,Level 2,K2_elevator_05,,قريب من المحلات الكبيرة | جنب الممر الطويل,
+elevator_l1_center,مصعد الدور الأول الرئيسي,elevator,Level 1,K1_elevator_05,,قريب من الممشى الرئيسي | جنب شوية أكشاك,
+escalator_l1_center,السلم الكهربائي الرئيسي,escalator,Level 1,K1_store_kiosk308,,في النص تقريبًا | واضح من الممر الرئيسي,
+restroom_l1,حمام الدور الأول,wc,Level 1,K1_wc_01,,قريب من المصلى | جنب ممشى المحلات,
+mosque_l1,مصلى الدور الأول,mosque,Level 1,K1_mosque_01,,جنب الحمام | قريب من مجموعة محلات,
+atm_zone_l1,ATM الدور الأول,atm,Level 1,K1_store_atm09,,جنب الممر | قريب من المصعد,
+gate_1_l2,بوابة 1,gate,Level 2,K2_store_gate1,,قريبة من محلات الدور التاني,
+gate_2_l2,بوابة 2,gate,Level 2,K2_store_gate2,,في آخر الممر,
+gate_3_l2,بوابة 3,gate,Level 2,K2_store_gate3,,جنب صف محلات,
+gate_4_l1,بوابة 4,gate,Level 1,K1_store_gate4,,على طرف الدور الأول,
+gate_5_l1,بوابة 5,gate,Level 1,K1_store_gate5,,جنب ATM ومصعد,
+gate_6_l1,بوابة 6,gate,Level 1,K1_store_gate6,,قريبة من بداية الممر,
+gate_7_l05,بوابة 7,gate,Level 0.5,K0.5_store_gate7,,عند المدخل السفلي,
+fashion_store_1,زارا,store,Level 2,K2_store_45,من أشهر محلات الأزياء والكاجوال والقطع الموسمية.,جنب السلم الكهربائي | قدام ممر واسع,True
+fashion_store_2,H&M,store,Level 2,K2_store_46,ملابس كاجوال وأساسيّات وملابس أطفال.,قريب من بوابة 1 | جنب زارا,True
+coffee_shop,كوستا كوفي,store,Level 2,K2_store_47,كافيه معروف للقهوة والمشروبات والحلويات الخفيفة.,قدام الاستعلامات | جنب منطقة جلوس,True
+electronics_store,ڤيرجن ميجا ستور,store,Level 2,K2_store_43,,قريب من المصعد | في نفس ممر الـ ATM,
+pharmacy_store,صيدلية العائلة,store,Level 1,K1_store_100,,جنب المصعد | قريبة من الحمام,
+kids_store,محل أطفال,store,Level 1,K1_store_74,,قريب من مصعد الدور الأول | جنب ممشى رئيسي,
+sports_store,أديداس,store,Level 1,K1_store_79,ملابس وأحذية رياضية.,على نفس صف المحلات | بعد السلم الكهربائي,True
+beauty_store,سيفورا,store,Level 3,K3_store_01,مكياج وعطور وسكين كير من أشهر الماركات.,جنب الممر الرئيسي | قريبة من المصعد,
+cinema_area,منطقة السينما,store,Level 4,K4_store_117,منطقة ترفيه وسينما.,بعد المصعد | في آخر الممر,
+foodcourt_anchor,الفود كورت,food,Level 2,K2_cc_01,منطقة تجمع مطاعم وكافيهات وخيارات أكل متعددة.,جنب الاستعلامات | قريب من بوابة 1,
+saudi_market,سعودي ماركت,supermarket,Level 1,K1_store_200,سوبرماركت كبير: خضار وفاكهة، لحوم ودواجن، ألبان وأجبان، معلبات، منظفات، منتجات استيراد ومحلية، ومستلزمات مطبخ,قريب من بوابة 5 | جنب المصعد الرئيسي,
+sea_ranch,سي رانش,restaurant,Level 2 - الفود كورت,K2_store_300,مطعم مأكولات بحرية وشواء، أشهر حاجة عندهم بيتزا الجمبري وبيتزا السمون، تحفة مش زيها في المول,في الفود كورت | جنب بي سي,False
+bc_restaurant,بي سي,restaurant,Level 2 - الفود كورت,K2_store_301,مطعم إيطالي، بيتزا بعجينة رقيقة كلاسيك وباستا كريمي تحفة ولازانيا,في الفود كورت | جنب سي رانش,False
+starbucks_l1_l2,ستاربكس,restaurant,"Level 1, Level 2",official_L1_L2_starbucks,قهوة ومشروبات باردة وساخنة وسناكس خفيفة.,من الكافيهات المعروفة في المول | مناسب للقاعدة السريعة,True
+caribou_l1,كاريبو كوفي,restaurant,Level 1,official_L1_caribou,كافيه للقهوة المتخصصة والمشروبات السريعة.,على نفس الدور مع محلات كثيرة | كويس للقهوة السريعة,True
+dunkin_l1,دانكن,restaurant,Level 1,official_L1_dunkin,قهوة ودوناتس وسناكس خفيفة.,قريب من مسار المحلات | مناسب للحاجة السريعة,True
+paul_l3,PAUL,restaurant,Level 3,official_L3_paul,بيكري وكافيه وفطار خفيف وحلويات.,على الدور الثالث | مناسب للفطار والقهوة,True
+espresso_lab_l3,Espresso Lab,restaurant,Level 3,official_L3_espresso_lab,كافيه للقهوة المتخصصة.,في الدور الثالث | اختيار مناسب للقهوة,True
+cilantro_l5,سيلانترو,restaurant,Level 5,official_L5_cilantro,كافيه وقهوة ومشروبات وحلويات خفيفة.,في الدور الخامس | مناسب للقعدة السريعة,True
+brioche_l2,Brioche Dorée,restaurant,Level 2,official_L2_brioche_doree,مخبوزات وكافيه وفطار خفيف.,على الدور الثاني | كويس للفطار السريع,True
+krispy_kreme_l1,Krispy Kreme,restaurant,Level 1,official_L1_krispy_kreme,دوناتس ومشروبات ساخنة وباردة.,في الدور الأول | لو عايزة حاجة حلوة,True
+nola_l1,NOLA,restaurant,Level 1,official_L1_nola,حلويات وكيك وميني حلو.,في الدور الأول | اختيار مناسب للتحلية,True
+mcd_l6_l8,ماكدونالدز,restaurant,"Level 6, Level 8",official_L6_L8_mcdonalds,برجر ووجبات سريعة ومشروبات.,في منطقة الأكل | مناسب للأكل السريع,True
+kfc_l6_l8,كنتاكي,restaurant,"Level 6, Level 8",official_L6_L8_kfc,فرايد تشيكن ووجبات سريعة.,في منطقة المطاعم | مناسب للوجبات السريعة,True
+buffalo_burger_l8,Buffalo Burger,restaurant,Level 8,official_L8_buffalo_burger,برجر ووجبات سريعة.,في الدور الثامن | من اختيارات البرجر,True
+papajohns_l8,Papa John's,restaurant,Level 8,official_L8_papajohns,بيتزا وسايدز.,في منطقة الأكل | لو عايزة بيتزا,True
+abou_tarek_l6,أبو طارق,restaurant,Level 6,official_L6_abou_tarek,كشري وأكل مصري سريع.,في الدور السادس | وجبة مصرية سريعة,True
+zooba_l4,زوبا,restaurant,Level 4,official_L4_zooba,أكل مصري حديث وسريع.,في الدور الرابع | اختيار مناسب للأكل المصري,True
+chilis_l5,Chili's,restaurant,Level 5,official_L5_chilis,مطعم أمريكاني ووجبات رئيسية وبرجر.,في الدور الخامس | مطعم جلسة أكتر من فاست فود,True
+casper_l3,Casper & Gambini's,restaurant,Level 3,official_L3_casper_gambinis,مطعم وكافيه، فيه أكل وقهوة وحلويات.,في الدور الثالث | مناسب للأكل والقهوة,True
+bosporus_l4,Bosporus,restaurant,Level 4,official_L4_bosporus,مطعم يقدم أطباق تركية ومشاوي.,في الدور الرابع | مطعم جلسة,True
+abou_elsid_l4,أبو السيد,restaurant,Level 4,official_L4_abou_elsid,مطعم أكل شرقي ومصري.,في الدور الرابع | مطعم معروف,True
+maharaja_l5,Maharaja,restaurant,Level 5,official_L5_maharaja,مطعم أكل هندي.,في الدور الخامس | لو عايزة أكل هندي,True
+sizzler_l4,Sizzler,restaurant,Level 4,official_L4_sizzler,مطعم مشويات وستيك.,في الدور الرابع | مطعم جلسة,True
+sushi_bay_l0,Sushi Bay,restaurant,Level 0,official_L0_sushi_bay,سوشي وأكلات آسيوية.,في الدور الأرضي | لو عايزة سوشي,True
+mori_sushi_l0,Mori Sushi,restaurant,Level 0,official_L0_mori_sushi,سوشي ومأكولات آسيوية.,في الدور الأرضي | اختيار مناسب للسوشي,True
+spectra_l6,Spectra,restaurant,Level 6,official_L6_spectra,مطعم وكافيه وجلسة كاملة.,في الدور السادس | مطعم جلسة,True
+planet_africa_l5_l6,Planet Africa,restaurant,"Level 5, Level 6",official_L5_L6_planet_africa,مطعم جلسة ومنيو متنوع.,في الدور الخامس والسادس | مطعم كبير,True
+nisantasi_l5,Nişantaşı,restaurant,Level 5,official_L5_nisantasi,مطعم وكافيه بطابع تركي.,في الدور الخامس | جلسة ومشروبات وأكل,True
+shogun_l1_l2,Shogun Japanese Restaurant,restaurant,"Level 1, Level 2",official_L1_L2_shogun,مطعم ياباني وسوشي.,في الدور الأول والثاني | مطعم مميز للأكل الياباني,True
+la_mie_l0,La Mie,restaurant,Level 0,official_L0_la_mie,بيكري وكافيه ومخبوزات.,في الدور الأرضي | كويس للفطار السريع,True
+fuddruckers_l1,Fuddruckers,restaurant,Level 1,official_L1_fuddruckers,برجر ووجبات أمريكاني.,في الدور الأول | اختيار برجر معروف,True
+maestro_l1_l2,Maestro Italian Restaurant,restaurant,"Level 1, Level 2",official_L1_L2_maestro,مطعم إيطالي للبيتزا والباستا.,في الدور الأول والثاني | لو عايزة أكل إيطالي,True
+villa_di_napoli_l0,VILLA DI NAPOLI,restaurant,Level 0,official_L0_villa_di_napoli,مطعم إيطالي وبيتزا وباستا.,في الدور الأرضي | مطعم إيطالي,True
+lc_waikiki_l3,LC Waikiki,store,Level 3,official_L3_lc_waikiki,ملابس كاجوال ورجالي وحريمي وأطفال.,في الدور الثالث | من محلات الملابس المعروفة,True
+mango_l2,Mango,store,Level 2,official_L2_mango,ملابس حريمي وكاجوال.,في الدور الثاني | ضمن منطقة الأزياء,True
+massimo_dutti_l3,Massimo Dutti,store,Level 3,official_L3_massimo_dutti,أزياء كلاسيك وكاجوال.,في الدور الثالث | ضمن محلات الفاشون,True
+lefties_l2,Lefties,store,Level 2,official_L2_lefties,ملابس كاجوال وأساسيّات.,في الدور الثاني | قريب من منطقة محلات الأزياء,True
+pull_bear_l2,Pull&Bear,store,Level 2,official_L2_pull_bear,ملابس كاجوال وشبابي.,في الدور الثاني | من محلات الكاجوال,True
+bershka_l2,Bershka,store,Level 2,official_L2_bershka,ملابس شبابي وكاجوال.,في الدور الثاني | ضمن محلات الأزياء,True
+american_eagle_l2,American Eagle,store,Level 2,official_L2_american_eagle,ملابس كاجوال وجينز.,في الدور الثاني | من البراندات المعروفة,True
+guess_l3,Guess,store,Level 3,official_L3_guess,ملابس وإكسسوارات.,في الدور الثالث | من محلات البراندات,True
+tommy_l3,Tommy Hilfiger,store,Level 3,official_L3_tommy_hilfiger,ملابس وإكسسوارات.,في الدور الثالث | من محلات البراندات,True
+lacoste_l2,Lacoste,store,Level 2,official_L2_lacoste,ملابس كاجوال وبولو.,في الدور الثاني | من البراندات المعروفة,True
+levis_l3,Levi's,store,Level 3,official_L3_levis,جينز وملابس كاجوال.,في الدور الثالث | محل معروف للچينز,True
+max_l1,Max,store,Level 1,official_L1_max,ملابس للرجال والحريمي والأطفال.,في الدور الأول | اختيار مناسب للعيلة,True
+marks_spencer_l1,Marks & Spencer,store,Level 1,official_L1_marks_spencer,ملابس وكاجوال وأساسيّات.,في الدور الأول | محل شامل للملابس,True
+reserved_l2,Reserved,store,Level 2,official_L2_reserved,ملابس كاجوال وحديثة.,في الدور الثاني | ضمن محلات الفاشون,True
+koton_l2_l3,Koton,store,"Level 2, Level 3",official_L2_L3_koton,ملابس كاجوال وحريمي وأطفال.,في الدور الثاني والثالث | من محلات الملابس المعروفة,True
+defacto_l4,DeFacto,store,Level 4,official_L4_defacto,ملابس كاجوال ومتنوعة.,في الدور الرابع | اختيار مناسب للملابس اليومية,True
+mobaco_l2,MOBACO COTTONS,store,Level 2,official_L2_mobaco_cottons,ملابس وكاجوال وقمصان.,في الدور الثاني | محل ملابس معروف,True
+concrete_l3,CONCRETE,store,Level 3,official_L3_concrete,ملابس رجالي وكاجوال.,في الدور الثالث | ضمن محلات الرجال,True
+cortefiel_l1,Cortefiel,store,Level 1,official_L1_cortefiel,ملابس كاجوال وكلاسيك.,في الدور الأول | من محلات الأزياء,True
+colins_l2,Colin's,store,Level 2,official_L2_colins,ملابس جينز وكاجوال.,في الدور الثاني | محل كاجوال,True
+decathlon_l1,Decathlon,store,Level 1,official_L1_decathlon,معدات وملابس رياضية متنوعة.,في الدور الأول | محل رياضي كبير,True
+puma_l2,Puma,store,Level 2,official_L2_puma,ملابس وأحذية رياضية.,في الدور الثاني | من البراندات الرياضية,True
+new_balance_l2,New Balance,store,Level 2,official_L2_new_balance,أحذية وملابس رياضية.,في الدور الثاني | لو عايزة كوتشي رياضي,True
+reebok_l4,Reebok,store,Level 4,official_L4_reebok,أحذية وملابس رياضية.,في الدور الرابع | من محلات الرياضة,True
+asics_l4,ASICS,store,Level 4,official_L4_asics,أحذية ومستلزمات رياضية.,في الدور الرابع | مناسب للجري والرياضة,True
+skechers_l1,Skechers,store,Level 1,official_L1_skechers,أحذية مريحة وكاجوال ورياضية.,في الدور الأول | لو عايزة كوتشي مريح,True
+crocs_l2,Crocs,store,"Level -2, Level 2",official_L_2_L2_crocs,أحذية وكاجوال خفيف.,في الدور الثاني وكمان -2 | براند معروف,True
+aldo_l2,ALDO,store,Level 2,official_L2_aldo,أحذية وشنط.,في الدور الثاني | لو عايزة جزمة أو شنطة,True
+charles_keith_l3,CHARLES & KEITH,store,Level 3,official_L3_charles_keith,أحذية وشنط وإكسسوارات.,في الدور الثالث | من محلات الشوز والشنط,True
+clarks_l1,Clarks,store,Level 1,official_L1_clarks,أحذية جلد وكاجوال.,في الدور الأول | محل أحذية معروف,True
+converse_l2,Converse,store,Level 2,official_L2_converse,أحذية وكاجوال.,في الدور الثاني | لو عايزة كوتشي كاجوال,True
+geox_l3,GEOX,store,Level 3,official_L3_geox,أحذية وكاجوال.,في الدور الثالث | ضمن محلات الأحذية,True
+samsonite_l1,Samsonite,store,Level 1,official_L1_samsonite,شنط سفر وحقائب.,في الدور الأول | لو عايزة شنط سفر,True
+carpisa_l2,Carpisa,store,Level 2,official_L2_carpisa,شنط وإكسسوارات.,في الدور الثاني | لو عايزة شنطة,True
+parfois_l1,Parfois,store,Level 1,official_L1_parfois,إكسسوارات وشنط.,في الدور الأول | من محلات الإكسسوارات,True
+miniso_l4,Miniso,store,Level 4,official_L4_miniso,إكسسوارات ومنتجات منزلية وهدايا.,في الدور الرابع | محل متنوع,True
+michael_kors_l3,MICHAEL KORS,store,Level 3,official_L3_michael_kors,شنط وإكسسوارات وبراند فاخر.,في الدور الثالث | من محلات البراندات,True
+pandora_l2,Pandora,store,Level 2,official_L2_pandora,مجوهرات وإكسسوارات.,في الدور الثاني | لو عايزة إكسسوارات أو هدية,True
+swarovski_l3,SWAROVSKI,store,Level 3,official_L3_swarovski,مجوهرات وإكسسوارات كريستال.,في الدور الثالث | محل هدايا وإكسسوارات,True
+lazurde_l2_l3,L’azurde,store,"Level 2, Level 3",official_L2_L3_lazurde,مجوهرات وذهب.,في الدور الثاني والثالث | من محلات المجوهرات,True
+magrabi_l3,Magrabi Optical,store,Level 3,official_L3_magrabi_optical,نظارات طبية وشمس.,في الدور الثالث | من محلات البصريات,True
+sunglass_hut_l2,Sunglass Hut,store,Level 2,official_L2_sunglass_hut,نظارات شمس.,في الدور الثاني | محل نظارات,True
+ao_optics_l2,AO! Optics,store,Level 2,official_L2_ao_optics,نظارات طبية وشمس.,في الدور الثاني | من محلات البصريات,True
+alpha_optical_l1,Alpha Optical,store,Level 1,official_L1_alpha_optical,نظارات طبية وشمس.,في الدور الأول | محل بصريات,True
+okaidi_l1,Okaidi OBaiBi,store,Level 1,official_L1_okaidi_obaibi,ملابس أطفال.,في الدور الأول | اختيار مناسب للأطفال,True
+babyshop_l1,baby shop,store,Level 1,official_L1_babyshop,ملابس ومستلزمات أطفال.,في الدور الأول | مناسب للأطفال,True
+stars_cinema_l5,Stars Cinema,store,Level 5,official_L5_stars_cinema,مجمع سينمات كبير بعدة شاشات.,في الدور الخامس | من مناطق الترفيه الرئيسية,True
+golden_stars_cinema_l0,Golden Stars Cinema Deluxe,store,Level 0,official_L0_golden_stars_cinema,سينما ديلوكس وقاعات عرض فاخرة.,في الدور الأرضي | من أماكن الترفيه,True
+adventure_land_l4,Adventure Land,store,Level 4,official_L4_adventure_land,منطقة ألعاب وترفيه للأطفال.,في الدور الرابع | منطقة ترفيه,True
+ezone_l5,E-ZONE,store,Level 5,official_L5_ezone,منطقة ألعاب إلكترونية وترفيه.,في الدور الخامس | منطقة ترفيه,True
+magic_galaxy_l4_l5,Magic Galaxy,store,"Level 4, Level 5",official_L4_L5_magic_galaxy,مدينة ألعاب داخلية كبيرة.,في الدور الرابع والخامس | من أشهر أماكن الترفيه,True
+mickey_park_l4,Mickey Park,store,Level 4,official_L4_mickey_park,منطقة ألعاب للأطفال.,في الدور الرابع | ترفيه للأطفال,True
+my_town_l4,My Town,store,Level 4,official_L4_my_town,مدينة تعليمية وترفيهية للأطفال.,في الدور الرابع | أنشطة تعليمية وترفيهية,True
+snow_city_l8,Snow City,store,Level 8,official_L8_snow_city,منطقة ترفيه وجو ثلجي.,في الدور الثامن | من أماكن الترفيه المعروفة,True
+xtreme_zone_l0,Xtreme Zone,store,Level 0,official_L0_xtreme_zone,ترامبولين وألعاب حركة للكبار والصغار.,في الدور الأرضي | منطقة ترفيه,True
+intercontinental_l1_l2,InterContinental Cairo Citystars,store,"Level 1, Level 2",official_L1_L2_intercontinental,فندق داخل مجمع سيتي ستارز.,في الدور الأول والثاني | ضمن مرافق المجمع,True
+holiday_inn_l1,Holiday Inn Cairo Citystars,store,Level 1,official_L1_holiday_inn,فندق داخل مجمع سيتي ستارز.,في الدور الأول | ضمن مرافق المجمع,True
+staybridge_l0,Staybridge Suites,store,Level 0,official_L0_staybridge,فندق/إقامة فندقية داخل المجمع.,في الدور الأرضي | ضمن مرافق المجمع,True
